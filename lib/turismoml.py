@@ -1,0 +1,2 @@
+def module():
+  print("Module")

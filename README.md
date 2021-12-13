@@ -10,4 +10,3 @@ Contenido de este repositorio de prácticas:
 - **datos:** carpeta de datos;
 
 - **lib:** carpeta con la librería de procesos que encapsula el código Python que hace el análisis, para los que tengáis interés en el código. Está documentado.
--
