@@ -110,9 +110,10 @@ def analisisCodo(datos, numClusters):
   K = range(numClusters[0], numClusters[1])
 
   for num_clusters in list(K):
-    kmode = KModes(n_clusters=num_clusters, init = "Huang", n_init = 5, verbose=0)
-    kmode.fit_predict(datos)
-    cost.append(kmode.cost_)
+    km = KPrototypes(n_jobs=-1, n_clusters=num_clusters, init="Huang", n_init=150,
+      random_state=0, verbose=1)
+    clustersId = km.fit_predict(datos, categorical=[ 1,2,3,4,5,6,7,8 ])
+    cost.append(km.cost_)
 
   plt.plot(K, cost, 'bx-')
   plt.xlabel('Nº clusters')
