@@ -72,9 +72,9 @@ def histogramaDiscretas(datos):
 # Generación de clusters K-Modes
 #
 # --------------------------------------
-def kprototypes(datos, clusters):
+def kprototypes(datos, clusters, iteraciones):
 
-  km = KPrototypes(n_jobs=-1, n_clusters=clusters, init="Huang", n_init=150,
+  km = KPrototypes(n_jobs=-1, n_clusters=clusters, init="Huang", n_init=iteraciones,
     random_state=0, verbose=1)
   clustersId = km.fit_predict(datos, categorical=[ 1,2,3,4,5,6,7,8 ])
   unique, counts = np.unique(clustersId, return_counts=True)
@@ -104,13 +104,13 @@ def kprototypes(datos, clusters):
 # Gráfica del codo para comprobar el número óptimo de clústeres
 #
 # --------------------------------------
-def analisisCodo(datos, numClusters):
+def analisisCodo(datos, numClusters, iteraciones):
 
   cost = []
   K = range(numClusters[0], numClusters[1])
 
   for num_clusters in list(K):
-    km = KPrototypes(n_jobs=-1, n_clusters=num_clusters, init="Huang", n_init=150,
+    km = KPrototypes(n_jobs=-1, n_clusters=num_clusters, init="Huang", n_init=iteraciones,
       random_state=0, verbose=1)
     clustersId = km.fit_predict(datos, categorical=[ 1,2,3,4,5,6,7,8 ])
     cost.append(km.cost_)
