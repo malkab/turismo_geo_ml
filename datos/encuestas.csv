@@ -1,906 +1,906 @@
-edad,acompanyantes,tipo_alojamiento,sol_playa,naturaleza_rural,cultural,deporte,gastronomía,estudios
-65,pareja,hotel 4 estrellas,False,False,True,False,True,
-71,unidad familiar,hotel 5 estrellas,True,False,False,False,True,
-59,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-73,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-48,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-45,pareja,hotel 5 estrellas,False,False,True,False,True,
-75,pareja,hotel 4 estrellas,False,False,True,False,True,
-64,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-57,amigos,hotel 5 estrellas,False,False,True,False,True,
-46,amigos,hotel 4 estrellas,False,False,True,False,False,
-66,pareja,hotel 4 estrellas,False,False,True,True,True,
-66,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-69,amigos,hotel 5 estrellas,True,False,True,False,True,
-73,amigos,hotel 5 estrellas,False,False,True,False,True,
-59,pareja,hotel 5 estrellas,False,False,True,False,True,
-65,pareja,hotel 4 estrellas,False,False,True,False,True,
-49,pareja,hotel 5 estrellas,False,False,True,False,True,
-72,pareja,hotel 4 estrellas,False,False,True,False,True,
-62,amigos,hotel 5 estrellas,False,False,True,False,True,
-56,pareja,hotel 4 estrellas,False,False,True,False,True,
-46,pareja,hotel 4 estrellas,False,False,True,False,True,
-50,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-78,amigos,hotel 4 estrellas,True,True,True,False,True,
-57,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,
-43,pareja,hotel 5 estrellas,True,False,True,False,True,
-68,pareja,hotel 4 estrellas,False,True,True,False,True,
-72,pareja,hotel 5 estrellas,False,False,True,True,True,
-69,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+edad,acompanyantes,tipo_alojamiento,sol_playa,naturaleza_rural,cultural,deporte,gastronomia,estudios
+63,amigos,hotel 4 estrellas,False,False,True,False,True,
+75,amigos,hotel 5 estrellas,False,False,True,False,True,
+60,pareja,hotel 4 estrellas,False,False,True,False,True,
+67,pareja,hotel 5 estrellas,False,False,False,False,True,
+61,amigos,hotel 5 estrellas,False,False,True,False,True,
+64,pareja,hotel 5 estrellas,False,False,True,False,True,
+45,amigos,hotel 4 estrellas,False,True,True,False,True,
+47,amigos,hotel 4 estrellas,False,False,True,False,True,
+61,pareja,hotel 4 estrellas,True,False,True,False,True,
+61,amigos,hotel 5 estrellas,False,False,True,False,True,
 56,pareja,hotel 5 estrellas,False,False,True,False,True,
-62,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-81,pareja,hotel 4 estrellas,False,False,True,False,True,
-56,pareja,hotel 5 estrellas,False,False,False,False,True,
-73,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-72,amigos,hotel 5 estrellas,False,False,True,False,True,
-71,pareja,hotel 5 estrellas,False,False,True,False,False,
-73,pareja,apartamento / viviendas uso turístico,True,False,True,False,True,
-56,amigos,hotel 5 estrellas,True,False,True,False,False,
-73,pareja,hotel 5 estrellas,False,False,True,False,True,
-73,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
-76,amigos,hotel 4 estrellas,True,False,True,False,True,
-67,amigos,hotel 5 estrellas,False,False,True,False,False,
-62,amigos,hotel 5 estrellas,False,False,True,False,True,
-63,pareja,hotel 5 estrellas,False,False,True,False,True,
-51,pareja,hotel 5 estrellas,False,False,True,False,True,
-71,pareja,hotel 5 estrellas,False,False,True,False,False,
-65,pareja,hotel 4 estrellas,True,False,True,False,True,
-48,amigos,hotel 5 estrellas,False,False,True,False,True,
-72,amigos,hotel 4 estrellas,False,False,True,True,True,
-85,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
-75,pareja,hotel 5 estrellas,False,False,True,False,True,
-55,pareja,hotel 5 estrellas,True,False,True,False,True,
-52,pareja,hotel 4 estrellas,False,False,True,False,True,
-57,pareja,hotel 4 estrellas,False,False,True,False,False,
-71,pareja,hotel 5 estrellas,False,False,False,True,True,
-76,amigos,hotel 4 estrellas,False,True,True,False,True,
-73,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
-54,pareja,hotel 4 estrellas,False,False,True,False,True,
-73,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-94,amigos,hotel 5 estrellas,False,False,True,False,True,
-63,pareja,hotel 5 estrellas,False,False,True,False,False,
-59,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-47,pareja,hotel 5 estrellas,False,False,True,False,True,
+66,pareja,hotel 5 estrellas,False,False,True,False,True,
+52,amigos,hotel 5 estrellas,False,True,True,False,True,
+69,pareja,apartamento / viviendas uso turístico,True,True,True,False,True,
+54,amigos,hotel 4 estrellas,False,False,True,False,True,
+70,amigos,hotel 5 estrellas,False,False,False,False,True,
+63,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,
+81,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
 70,pareja,hotel 4 estrellas,False,False,True,False,True,
-81,amigos,hotel 4 estrellas,False,False,False,False,True,
-96,amigos,hotel 5 estrellas,False,False,True,False,True,
-62,amigos,hotel 4 estrellas,False,False,True,False,True,
-59,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-60,amigos,hotel 5 estrellas,False,False,True,True,True,
-74,amigos,hotel 5 estrellas,True,True,True,False,True,
-67,pareja,hotel 4 estrellas,False,False,True,False,True,
-68,amigos,hotel 5 estrellas,False,False,True,True,True,
-74,unidad familiar,hotel 5 estrellas,False,True,True,False,True,
-66,pareja,hotel 5 estrellas,False,False,True,True,True,
-71,amigos,hotel 4 estrellas,False,False,True,False,True,
-71,pareja,hotel 5 estrellas,False,False,True,True,True,
-73,amigos,hotel 4 estrellas,True,False,True,False,True,
-60,amigos,hotel 5 estrellas,False,False,True,False,True,
-40,amigos,hotel 4 estrellas,False,False,True,False,True,
-78,amigos,hotel 5 estrellas,False,False,True,False,True,
-78,pareja,hotel 5 estrellas,True,False,True,False,True,
-60,amigos,hotel 4 estrellas,False,False,True,False,True,
-63,pareja,hotel 4 estrellas,True,False,True,True,True,
-54,amigos,hotel 4 estrellas,False,False,True,False,True,
-63,pareja,hotel 5 estrellas,False,True,True,False,True,
-53,pareja,hotel 5 estrellas,True,True,True,True,True,
-67,pareja,hotel 5 estrellas,False,False,True,False,True,
-79,amigos,apartamento / viviendas uso turístico,False,False,False,True,True,
-61,amigos,hotel 5 estrellas,False,False,True,True,True,
-62,pareja,hotel 5 estrellas,False,False,True,False,True,
-50,unidad familiar,hotel 5 estrellas,False,False,True,False,False,
-66,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-54,pareja,hotel 4 estrellas,False,False,True,False,True,
-81,amigos,hotel 4 estrellas,True,False,True,False,True,
-56,pareja,hotel 4 estrellas,False,False,True,True,True,
-72,pareja,hotel 4 estrellas,False,False,False,False,True,
-79,pareja,hotel 4 estrellas,False,False,True,False,False,
-67,pareja,hotel 4 estrellas,False,False,True,False,True,
-77,pareja,hotel 5 estrellas,True,False,True,False,True,
-60,pareja,apartamento / viviendas uso turístico,False,False,False,False,False,
-81,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-44,amigos,hotel 4 estrellas,True,False,True,True,True,
-63,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-61,pareja,hotel 5 estrellas,False,False,True,False,True,
-82,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-75,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
-59,amigos,hotel 4 estrellas,False,False,True,False,True,
-54,amigos,hotel 4 estrellas,False,True,True,False,False,
-51,pareja,hotel 4 estrellas,False,False,True,False,True,
-43,pareja,hotel 5 estrellas,True,False,True,False,True,
-80,amigos,hotel 5 estrellas,False,False,True,False,True,
-79,pareja,hotel 5 estrellas,False,False,True,False,True,
-78,pareja,hotel 4 estrellas,True,False,True,False,True,
-83,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-57,pareja,hotel 4 estrellas,False,False,True,False,True,
-57,pareja,hotel 4 estrellas,False,False,True,True,True,
-71,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-60,amigos,hotel 4 estrellas,False,True,True,False,False,
-66,amigos,hotel 5 estrellas,False,False,True,False,True,
-79,pareja,hotel 5 estrellas,False,False,True,False,True,
-59,pareja,hotel 5 estrellas,False,False,True,False,True,
-66,amigos,hotel 4 estrellas,False,False,True,False,False,
-50,pareja,hotel 4 estrellas,False,False,True,False,True,
-49,pareja,hotel 4 estrellas,True,False,True,False,True,
-74,pareja,hotel 5 estrellas,False,False,True,False,True,
-73,unidad familiar,hotel 5 estrellas,True,False,True,False,True,
-63,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-75,pareja,hotel 5 estrellas,False,False,True,False,True,
-64,amigos,hotel 5 estrellas,False,False,True,False,False,
-65,amigos,hotel 5 estrellas,False,False,True,False,True,
+41,unidad familiar,hotel 5 estrellas,False,True,True,False,True,
 66,pareja,hotel 5 estrellas,False,False,True,False,True,
-74,pareja,hotel 5 estrellas,False,False,True,False,True,
-45,amigos,hotel 5 estrellas,True,False,True,False,True,
-73,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-55,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-68,pareja,hotel 5 estrellas,False,False,True,True,True,
-81,pareja,hotel 4 estrellas,True,False,True,False,True,
-70,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-67,pareja,hotel 5 estrellas,True,False,True,False,True,
-40,amigos,hotel 5 estrellas,False,True,True,False,False,
-70,amigos,hotel 5 estrellas,False,False,True,False,True,
-74,pareja,hotel 5 estrellas,False,False,False,False,True,
-72,pareja,hotel 4 estrellas,False,False,True,False,True,
-64,pareja,hotel 5 estrellas,True,False,True,True,True,
-67,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-85,amigos,hotel 5 estrellas,False,False,True,False,True,
-69,amigos,hotel 4 estrellas,False,False,True,False,True,
-64,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
-75,amigos,hotel 4 estrellas,False,False,True,False,True,
-68,pareja,hotel 4 estrellas,True,False,True,False,True,
-52,pareja,hotel 4 estrellas,False,False,True,False,True,
-66,amigos,hotel 5 estrellas,False,False,True,True,True,
-56,pareja,hotel 5 estrellas,False,False,True,False,True,
-54,amigos,hotel 4 estrellas,False,False,True,False,True,
-46,amigos,hotel 5 estrellas,False,False,True,False,True,
-59,pareja,hotel 5 estrellas,False,True,True,False,True,
-75,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-50,pareja,hotel 4 estrellas,True,False,True,False,True,
-54,pareja,hotel 5 estrellas,False,False,True,False,True,
-67,amigos,hotel 5 estrellas,False,False,True,False,True,
-67,amigos,hotel 4 estrellas,True,False,True,False,True,
-75,amigos,hotel 4 estrellas,False,False,True,True,True,
-74,pareja,apartamento / viviendas uso turístico,False,True,True,False,False,
-67,pareja,hotel 5 estrellas,True,False,True,False,True,
-54,unidad familiar,hotel 4 estrellas,True,False,True,True,False,
-84,pareja,hotel 4 estrellas,False,False,True,False,True,
-55,amigos,apartamento / viviendas uso turístico,False,False,True,True,False,
-60,pareja,hotel 5 estrellas,False,False,True,False,True,
-71,amigos,hotel 4 estrellas,False,False,True,False,True,
-68,pareja,hotel 4 estrellas,True,False,True,False,True,
-62,pareja,hotel 4 estrellas,True,False,True,False,True,
-81,amigos,hotel 5 estrellas,True,False,True,False,True,
-57,amigos,hotel 5 estrellas,False,False,True,False,True,
-58,pareja,hotel 5 estrellas,False,False,True,False,True,
-65,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+62,unidad familiar,hotel 4 estrellas,True,False,False,False,True,
+71,pareja,hotel 5 estrellas,True,False,True,True,True,
 68,pareja,hotel 5 estrellas,False,False,True,False,True,
-77,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-78,amigos,hotel 5 estrellas,False,False,True,True,True,
-73,amigos,hotel 5 estrellas,True,False,True,False,True,
-57,pareja,hotel 4 estrellas,True,False,True,False,True,
-53,amigos,hotel 5 estrellas,False,False,True,False,True,
-64,pareja,hotel 5 estrellas,False,True,True,False,True,
-69,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-48,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-65,amigos,hotel 5 estrellas,False,True,True,False,True,
-67,pareja,hotel 5 estrellas,False,False,True,False,True,
-52,amigos,hotel 4 estrellas,True,True,True,False,False,
-64,pareja,hotel 5 estrellas,False,False,True,False,True,
-78,pareja,hotel 4 estrellas,False,False,True,False,True,
-74,pareja,hotel 5 estrellas,False,False,True,False,False,
-56,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
-62,pareja,hotel 5 estrellas,False,True,True,False,True,
-46,amigos,hotel 4 estrellas,False,False,True,False,True,
-63,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-83,amigos,hotel 5 estrellas,False,False,True,False,True,
-82,pareja,hotel 4 estrellas,True,False,True,False,True,
-73,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-74,amigos,hotel 5 estrellas,True,True,True,False,True,
-78,pareja,hotel 4 estrellas,False,False,True,False,True,
-54,pareja,hotel 5 estrellas,False,True,True,False,True,
-47,amigos,hotel 5 estrellas,False,False,True,False,False,
-68,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-68,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-55,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-75,amigos,hotel 4 estrellas,False,False,True,False,True,
-52,amigos,hotel 5 estrellas,True,False,True,False,True,
-41,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-79,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-77,pareja,hotel 4 estrellas,False,False,True,False,True,
-85,pareja,hotel 4 estrellas,False,False,True,False,True,
-52,pareja,hotel 4 estrellas,False,False,True,False,True,
-82,pareja,hotel 4 estrellas,False,False,False,False,True,
-47,pareja,hotel 4 estrellas,False,False,True,False,True,
-70,pareja,hotel 4 estrellas,False,False,True,True,True,
-69,amigos,hotel 5 estrellas,False,False,True,False,True,
-60,amigos,hotel 4 estrellas,True,False,True,False,True,
-52,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-79,amigos,hotel 5 estrellas,False,False,True,False,True,
-65,pareja,hotel 5 estrellas,False,False,False,False,True,
-46,amigos,hotel 5 estrellas,False,False,True,False,True,
-77,amigos,hotel 5 estrellas,False,False,True,False,True,
-54,pareja,hotel 5 estrellas,False,True,True,False,True,
+73,pareja,hotel 4 estrellas,False,False,True,False,True,
+59,pareja,hotel 4 estrellas,False,False,True,False,True,
+50,pareja,hotel 4 estrellas,False,False,True,False,True,
 66,pareja,hotel 5 estrellas,False,False,True,False,True,
-72,pareja,apartamento / viviendas uso turístico,True,False,True,True,True,
-64,pareja,hotel 5 estrellas,False,False,True,False,True,
-70,pareja,hotel 5 estrellas,False,False,True,False,True,
-56,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
-88,amigos,hotel 5 estrellas,False,False,True,True,True,
-56,pareja,hotel 5 estrellas,False,False,True,False,True,
-49,pareja,hotel 5 estrellas,False,False,False,False,True,
-53,pareja,hotel 5 estrellas,False,False,True,False,True,
-61,amigos,hotel 4 estrellas,False,False,False,False,True,
-56,amigos,hotel 5 estrellas,False,False,True,False,False,
-85,pareja,hotel 4 estrellas,True,True,True,False,True,
-56,pareja,hotel 5 estrellas,False,False,True,False,True,
-68,pareja,hotel 4 estrellas,False,False,True,False,True,
-63,pareja,hotel 4 estrellas,False,False,True,False,True,
-78,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-57,pareja,hotel 5 estrellas,False,False,True,False,True,
-57,pareja,hotel 5 estrellas,False,False,True,False,True,
-41,pareja,hotel 5 estrellas,True,False,True,False,True,
-53,pareja,hotel 5 estrellas,False,False,True,False,True,
-57,pareja,hotel 5 estrellas,False,False,True,False,True,
-64,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
-75,unidad familiar,hotel 5 estrellas,False,False,False,True,True,
-62,pareja,hotel 5 estrellas,True,False,False,True,False,
-87,unidad familiar,apartamento / viviendas uso turístico,False,False,False,True,True,
-70,amigos,hotel 5 estrellas,False,False,True,True,True,
-48,amigos,hotel 5 estrellas,False,False,True,False,True,
-73,amigos,hotel 5 estrellas,False,False,True,True,True,
-41,pareja,hotel 4 estrellas,True,False,True,True,True,
-66,pareja,hotel 5 estrellas,False,False,False,False,True,
-78,pareja,hotel 4 estrellas,False,False,False,False,False,
-68,pareja,hotel 5 estrellas,True,True,True,True,True,
-57,amigos,hotel 5 estrellas,False,False,False,True,True,
-50,pareja,hotel 5 estrellas,False,False,True,True,True,
-69,amigos,hotel 4 estrellas,False,False,False,True,True,
-66,pareja,hotel 5 estrellas,True,False,True,True,True,
-69,amigos,hotel 5 estrellas,False,False,False,True,True,
-68,pareja,hotel 5 estrellas,False,False,True,True,False,
-58,amigos,hotel 5 estrellas,False,False,True,False,True,
-66,pareja,hotel 5 estrellas,False,False,True,True,True,
-52,pareja,hotel 5 estrellas,False,False,True,True,True,
-77,pareja,hotel 5 estrellas,False,False,True,True,True,
-71,amigos,hotel 5 estrellas,True,False,True,True,True,
-78,pareja,hotel 5 estrellas,False,False,True,True,True,
-64,amigos,hotel 5 estrellas,False,False,True,True,True,
-60,pareja,hotel 5 estrellas,False,True,True,True,True,
-55,amigos,hotel 5 estrellas,False,False,True,True,False,
-83,pareja,hotel 5 estrellas,False,False,True,True,True,
-72,amigos,hotel 5 estrellas,False,False,True,True,False,
-61,amigos,apartamento / viviendas uso turístico,False,True,True,True,True,
-82,amigos,hotel 5 estrellas,True,False,True,True,True,
-65,pareja,hotel 4 estrellas,False,False,True,False,True,
-41,pareja,hotel 5 estrellas,False,False,True,False,True,
-74,unidad familiar,hotel 5 estrellas,False,False,False,True,True,
-78,pareja,hotel 5 estrellas,False,False,True,True,False,
-62,pareja,hotel 5 estrellas,False,False,False,True,False,
-59,pareja,hotel 5 estrellas,False,False,True,True,True,
-48,amigos,hotel 5 estrellas,False,False,True,True,True,
-47,unidad familiar,hotel 5 estrellas,False,False,False,False,True,
-68,pareja,hotel 5 estrellas,False,False,False,True,False,
-47,pareja,hotel 4 estrellas,False,False,True,False,True,
-70,pareja,hotel 5 estrellas,False,False,False,True,True,
-53,pareja,hotel 5 estrellas,False,False,True,True,True,
-58,amigos,apartamento / viviendas uso turístico,False,False,True,True,True,
-54,unidad familiar,hotel 5 estrellas,False,False,False,True,False,
-67,amigos,hotel 5 estrellas,False,False,True,True,True,
-82,pareja,hotel 5 estrellas,False,False,True,True,True,
-68,pareja,hotel 5 estrellas,False,False,False,True,True,
-71,pareja,hotel 5 estrellas,True,False,False,False,True,
-73,amigos,hotel 5 estrellas,False,False,False,True,True,
-72,unidad familiar,hotel 5 estrellas,False,False,True,False,False,
-57,unidad familiar,hotel 5 estrellas,True,False,True,True,True,
-42,amigos,hotel 5 estrellas,False,False,True,True,False,
-74,pareja,hotel 5 estrellas,False,False,False,True,False,
-75,amigos,hotel 5 estrellas,False,False,True,True,False,
-67,amigos,hotel 5 estrellas,False,False,False,True,False,
-78,pareja,hotel 5 estrellas,False,False,True,True,False,
-57,unidad familiar,hotel 5 estrellas,False,False,False,True,True,
-74,unidad familiar,hotel 5 estrellas,True,False,False,True,True,
-70,pareja,hotel 5 estrellas,False,False,True,True,True,
-54,pareja,hotel 5 estrellas,True,False,True,True,False,
-69,unidad familiar,apartamento / viviendas uso turístico,False,False,True,True,False,
-64,pareja,hotel 5 estrellas,False,False,False,True,True,
-48,pareja,hotel 5 estrellas,False,False,True,True,True,
-76,pareja,hotel 5 estrellas,False,False,False,True,True,
-78,pareja,hotel 5 estrellas,False,False,False,True,True,
-65,pareja,hotel 5 estrellas,False,False,False,True,True,
-74,unidad familiar,hotel 5 estrellas,False,True,False,False,True,
-59,amigos,hotel 5 estrellas,False,False,False,True,True,
-63,pareja,hotel 5 estrellas,False,False,True,True,True,
-74,amigos,apartamento / viviendas uso turístico,True,False,False,True,True,
-60,pareja,hotel 5 estrellas,False,True,True,True,True,
-82,amigos,hotel 5 estrellas,False,False,False,True,True,
-78,amigos,hotel 5 estrellas,False,False,True,True,False,
-70,pareja,hotel 5 estrellas,False,False,True,True,True,
-65,pareja,hotel 4 estrellas,False,False,True,True,True,
-41,amigos,hotel 5 estrellas,False,False,False,True,True,
-59,pareja,hotel 4 estrellas,False,False,True,True,False,
-76,pareja,hotel 5 estrellas,True,False,True,True,True,
-72,pareja,hotel 4 estrellas,False,False,False,True,True,
-74,amigos,hotel 5 estrellas,False,False,True,False,True,
-53,pareja,hotel 5 estrellas,False,False,True,True,False,
-52,amigos,hotel 5 estrellas,False,False,True,True,True,
-45,pareja,hotel 5 estrellas,False,False,True,False,False,
-64,pareja,hotel 5 estrellas,True,False,False,True,True,
-66,amigos,hotel 5 estrellas,False,False,True,True,False,
-67,amigos,hotel 5 estrellas,False,False,False,True,False,
-55,pareja,hotel 5 estrellas,False,False,True,True,True,
-42,amigos,hotel 4 estrellas,False,False,True,True,True,
-83,pareja,hotel 5 estrellas,False,False,True,True,False,
-64,unidad familiar,hotel 5 estrellas,False,False,False,False,True,
-51,pareja,hotel 5 estrellas,False,False,False,True,False,
-75,amigos,hotel 5 estrellas,False,False,False,True,True,
-64,pareja,hotel 5 estrellas,False,False,True,True,True,
-77,pareja,hotel 5 estrellas,False,False,True,True,True,
-61,pareja,hotel 4 estrellas,False,False,False,True,True,
-50,amigos,hotel 5 estrellas,False,False,False,True,False,
-83,pareja,hotel 4 estrellas,True,False,True,True,False,
-82,amigos,hotel 5 estrellas,False,False,True,False,True,
-79,pareja,hotel 5 estrellas,False,False,True,True,True,
-71,pareja,hotel 5 estrellas,False,False,True,True,True,
-84,pareja,hotel 5 estrellas,True,False,False,True,True,
-90,pareja,hotel 5 estrellas,True,False,True,True,True,
-59,pareja,hotel 5 estrellas,False,False,True,True,True,
-55,amigos,hotel 5 estrellas,False,False,False,True,False,
-56,pareja,apartamento / viviendas uso turístico,False,False,False,True,True,
-48,pareja,hotel 5 estrellas,False,False,True,True,True,
-65,pareja,hotel 5 estrellas,False,True,True,True,True,
-75,pareja,hotel 5 estrellas,False,False,True,True,False,
-66,pareja,hotel 5 estrellas,False,False,True,True,True,
-83,pareja,hotel 4 estrellas,False,False,True,True,True,
-67,pareja,hotel 5 estrellas,False,False,True,True,True,
-67,pareja,hotel 5 estrellas,False,False,True,True,False,
-75,amigos,hotel 5 estrellas,False,False,False,False,True,
-59,amigos,apartamento / viviendas uso turístico,False,False,True,True,True,
-66,pareja,hotel 5 estrellas,False,False,True,True,True,
-60,pareja,hotel 4 estrellas,False,False,True,True,True,
-70,pareja,hotel 5 estrellas,False,False,False,True,True,
-66,pareja,hotel 5 estrellas,False,False,False,True,False,
-78,unidad familiar,hotel 5 estrellas,True,False,False,True,False,
-63,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-76,pareja,hotel 5 estrellas,False,False,False,False,False,
-46,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
-54,amigos,hotel 5 estrellas,False,False,True,False,True,
-73,amigos,hotel 5 estrellas,False,False,False,True,True,
-50,amigos,hotel 4 estrellas,False,False,True,True,False,
-50,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
-64,pareja,hotel 4 estrellas,False,False,True,True,True,
-78,unidad familiar,hotel 4 estrellas,False,False,True,True,False,
-53,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
-81,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
-46,pareja,hotel 5 estrellas,False,False,True,False,True,
-56,pareja,apartamento / viviendas uso turístico,False,False,False,True,True,
-81,pareja,hotel 5 estrellas,False,False,True,True,True,
-78,pareja,hotel 5 estrellas,False,False,True,True,True,
-44,pareja,hotel 5 estrellas,False,False,True,True,True,
-59,amigos,hotel 5 estrellas,False,False,False,True,False,
-76,pareja,hotel 5 estrellas,False,False,True,True,True,
-79,pareja,hotel 4 estrellas,False,False,True,True,True,
-57,pareja,hotel 4 estrellas,False,False,True,True,True,
-89,pareja,hotel 5 estrellas,False,False,True,True,True,
-71,amigos,hotel 5 estrellas,False,False,False,True,True,
-53,pareja,hotel 5 estrellas,False,False,False,True,True,
-71,pareja,hotel 5 estrellas,False,False,True,True,True,
-74,pareja,hotel 5 estrellas,False,True,True,True,True,
-84,amigos,hotel 4 estrellas,False,False,True,False,True,
-57,unidad familiar,hotel 4 estrellas,True,False,False,True,True,
-81,pareja,hotel 5 estrellas,False,False,False,True,True,
-76,pareja,hotel 5 estrellas,False,False,True,True,True,
-74,pareja,hotel 5 estrellas,False,False,True,True,False,
-64,unidad familiar,hotel 5 estrellas,False,False,True,True,False,
-57,amigos,hotel 5 estrellas,False,False,True,True,True,
-41,pareja,hotel 5 estrellas,False,False,True,True,True,
-73,amigos,hotel 5 estrellas,False,False,False,True,True,
-66,amigos,hotel 5 estrellas,False,False,False,True,True,
-67,amigos,hotel 5 estrellas,False,False,True,True,False,
-69,amigos,hotel 5 estrellas,False,False,True,True,True,
-82,pareja,hotel 5 estrellas,False,False,True,False,False,
-51,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-62,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-49,amigos,apartamento / viviendas uso turístico,True,False,False,False,True,
-51,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-31,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
-30,amigos,apartamento / viviendas uso turístico,False,True,True,True,True,
-41,pareja,hotel 5 estrellas,False,False,True,False,True,
-41,unidad familiar,hotel 5 estrellas,True,False,True,False,False,
-56,unidad familiar,hotel 4 estrellas,True,False,False,False,False,
-46,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-48,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
-42,pareja,hotel 5 estrellas,True,False,True,False,True,
-50,pareja,hotel 3 estrellas,False,False,True,False,True,
-43,amigos,apartamento / viviendas uso turístico,True,False,True,False,False,
-54,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-45,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
-44,amigos,hotel 3 estrellas,True,False,False,False,True,
-35,amigos,hotel 4 estrellas,False,False,True,True,True,
-41,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-66,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-39,unidad familiar,hotel 5 estrellas,False,True,True,False,False,
-46,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-45,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
-52,unidad familiar,hotel 3 estrellas,False,True,True,True,False,
-37,pareja,apartamento / viviendas uso turístico,True,False,True,False,False,
-49,unidad familiar,hotel 4 estrellas,True,True,False,False,True,
-48,pareja,hotel 4 estrellas,False,True,True,False,True,
-51,unidad familiar,hotel 3 estrellas,True,True,True,False,True,
-45,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
-38,amigos,hotel 4 estrellas,False,False,False,False,True,
-32,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-54,pareja,hotel 5 estrellas,False,True,True,False,True,
-61,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
-29,unidad familiar,hotel 4 estrellas,True,False,False,False,True,
-32,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-52,unidad familiar,hotel 5 estrellas,False,False,False,False,False,
-42,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-30,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-43,pareja,hotel 4 estrellas,False,False,True,False,True,
-59,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
-47,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-42,pareja,hotel 3 estrellas,False,False,False,False,True,
-67,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-43,unidad familiar,hotel 4 estrellas,False,False,False,False,False,
-39,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
-35,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,
-59,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-44,unidad familiar,hotel 3 estrellas,False,False,False,False,True,
-50,pareja,hotel 4 estrellas,False,False,True,True,True,
-45,pareja,hotel 4 estrellas,False,False,True,True,False,
-55,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-44,pareja,hotel 4 estrellas,True,True,True,False,True,
-41,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-34,amigos,hotel 4 estrellas,False,False,True,False,False,
-45,amigos,hotel 4 estrellas,False,False,True,False,False,
-42,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
-27,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
-35,pareja,hotel 5 estrellas,False,False,True,False,True,
-49,amigos,apartamento / viviendas uso turístico,True,False,False,False,True,
-53,unidad familiar,hotel 4 estrellas,False,True,True,True,True,
-46,unidad familiar,hotel 3 estrellas,False,False,False,False,True,
-43,amigos,hotel 4 estrellas,False,False,True,False,True,
-51,pareja,apartamento / viviendas uso turístico,True,False,True,False,True,
-60,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-44,amigos,apartamento / viviendas uso turístico,True,False,True,True,False,
-40,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
-60,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-26,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-46,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
-52,amigos,hotel 4 estrellas,False,True,True,False,True,
-51,unidad familiar,hotel 3 estrellas,True,False,False,True,False,
-62,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
-62,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-53,unidad familiar,hotel 4 estrellas,False,False,False,True,True,
-55,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
-49,unidad familiar,hotel 4 estrellas,False,False,True,True,True,
-40,pareja,hotel 5 estrellas,False,False,False,False,True,
-36,pareja,apartamento / viviendas uso turístico,True,False,False,False,True,
-35,unidad familiar,hotel 3 estrellas,False,False,False,False,True,
-29,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
-38,pareja,hotel 4 estrellas,False,True,True,False,True,
-43,unidad familiar,hotel 4 estrellas,False,False,True,True,True,
-36,pareja,hotel 3 estrellas,True,False,True,False,True,
-47,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,
-39,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-52,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
-42,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-38,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,False,
-45,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
-49,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-38,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-57,unidad familiar,hotel 5 estrellas,False,True,False,False,True,
-44,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-36,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
-40,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-24,unidad familiar,hotel 3 estrellas,False,False,True,False,True,
-45,pareja,hotel 4 estrellas,False,True,False,False,True,
-50,amigos,apartamento / viviendas uso turístico,True,False,False,False,True,
-43,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-38,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
-23,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-38,pareja,apartamento / viviendas uso turístico,False,True,True,False,False,
-43,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-45,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-54,pareja,hotel 5 estrellas,True,True,True,False,True,
-38,pareja,apartamento / viviendas uso turístico,True,False,True,False,True,
-57,unidad familiar,hotel 4 estrellas,True,True,True,False,True,
-54,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-53,amigos,hotel 4 estrellas,True,False,False,False,False,
-47,amigos,hotel 4 estrellas,False,False,False,False,True,
-43,unidad familiar,hotel 4 estrellas,False,True,True,False,False,
-38,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-28,unidad familiar,hotel 5 estrellas,False,True,True,False,True,
-23,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-47,pareja,hotel 5 estrellas,True,False,True,False,False,
-35,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-47,unidad familiar,apartamento / viviendas uso turístico,True,True,False,True,True,
-43,unidad familiar,apartamento / viviendas uso turístico,False,True,False,True,True,
-53,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,False,
-39,pareja,apartamento / viviendas uso turístico,True,True,True,False,True,
-41,pareja,hotel 4 estrellas,False,True,True,False,True,
-41,unidad familiar,hotel 3 estrellas,False,False,False,False,True,
-44,amigos,hotel 4 estrellas,False,False,True,False,False,
-32,pareja,hotel 4 estrellas,False,False,True,False,True,
-42,unidad familiar,hotel 4 estrellas,True,True,True,False,False,
-51,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-48,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
-37,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-46,unidad familiar,apartamento / viviendas uso turístico,True,True,False,False,True,
-50,pareja,hotel 5 estrellas,True,False,False,False,False,
-45,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,
-39,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-53,unidad familiar,hotel 5 estrellas,False,True,False,False,False,
-60,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-44,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
-33,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-55,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-46,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-49,amigos,hotel 5 estrellas,False,False,True,False,True,
-50,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-52,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-38,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-60,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-42,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,False,
-41,amigos,hotel 4 estrellas,False,False,True,True,True,
-57,unidad familiar,apartamento / viviendas uso turístico,False,False,False,True,True,
-69,amigos,hotel 3 estrellas,False,False,True,False,True,
-38,amigos,apartamento / viviendas uso turístico,True,False,False,False,True,
-53,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-41,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
-33,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-37,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-41,pareja,hotel 4 estrellas,True,False,False,False,True,
-43,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-62,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-53,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
-39,unidad familiar,apartamento / viviendas uso turístico,False,False,True,True,False,
-40,amigos,hotel 3 estrellas,False,False,True,False,True,
-39,pareja,hotel 4 estrellas,False,False,True,False,True,
-22,pareja,hotel 4 estrellas,False,False,True,False,True,
-39,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-54,amigos,apartamento / viviendas uso turístico,False,False,False,True,True,
-56,pareja,hotel 3 estrellas,False,False,True,True,True,
-41,unidad familiar,apartamento / viviendas uso turístico,True,True,True,False,True,
-52,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
-35,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
-35,pareja,hotel 4 estrellas,True,False,False,False,True,
-48,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,False,
-52,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-26,amigos,hotel 3 estrellas,False,True,True,True,True,
-45,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-43,unidad familiar,apartamento / viviendas uso turístico,False,False,True,True,True,
-32,pareja,apartamento / viviendas uso turístico,False,True,True,False,False,
-36,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
-53,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-63,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-24,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-72,unidad familiar,apartamento / viviendas uso turístico,False,True,False,True,True,
-40,amigos,hotel 4 estrellas,False,True,False,True,True,
-42,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-43,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-34,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-48,amigos,hotel 4 estrellas,False,False,True,False,False,
-67,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-52,amigos,hotel 3 estrellas,True,False,False,False,False,
-44,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,False,
-29,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-47,amigos,hotel 4 estrellas,True,False,False,False,True,
-40,amigos,hotel 4 estrellas,False,True,True,False,True,
-35,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
-49,unidad familiar,apartamento / viviendas uso turístico,True,True,True,False,False,
-58,unidad familiar,hotel 4 estrellas,True,False,False,False,True,
-47,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-40,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
-36,pareja,apartamento / viviendas uso turístico,True,False,True,False,True,
-54,pareja,hotel 4 estrellas,False,True,True,False,False,
-34,pareja,apartamento / viviendas uso turístico,True,True,True,False,True,
-48,unidad familiar,apartamento / viviendas uso turístico,False,False,True,True,False,
-35,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,False,
-54,unidad familiar,hotel 3 estrellas,False,False,True,False,False,
-39,pareja,apartamento / viviendas uso turístico,False,True,True,False,False,
-70,amigos,hotel 3 estrellas,False,True,False,False,True,
-53,amigos,hotel 4 estrellas,False,False,True,False,True,
-34,pareja,hotel 4 estrellas,False,True,True,False,True,
-63,amigos,hotel 4 estrellas,False,False,True,True,True,
-37,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
-40,unidad familiar,hotel 4 estrellas,False,True,True,True,False,
-42,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-39,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
-43,pareja,hotel 5 estrellas,True,False,True,False,True,
-39,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
-32,pareja,hotel 4 estrellas,False,False,True,False,False,
-30,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-40,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-42,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
-47,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
-49,pareja,apartamento / viviendas uso turístico,True,False,True,False,True,
-54,pareja,hotel 4 estrellas,False,True,True,True,True,
-32,amigos,apartamento / viviendas uso turístico,True,True,True,False,False,
-37,amigos,apartamento / viviendas uso turístico,True,True,True,False,True,
-49,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,
-48,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
-52,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
-26,amigos,hotel 4 estrellas,False,False,True,False,True,
-53,amigos,apartamento / viviendas uso turístico,True,True,False,False,True,
-55,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,False,
-33,pareja,hotel 5 estrellas,False,False,True,False,True,
-42,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-38,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-35,pareja,hotel 4 estrellas,False,False,False,True,True,
-40,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-49,unidad familiar,hotel 5 estrellas,True,False,True,False,True,
-47,amigos,apartamento / viviendas uso turístico,True,False,True,True,True,
-41,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-56,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-48,unidad familiar,apartamento / viviendas uso turístico,True,False,True,True,True,
-38,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-51,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-47,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
-34,pareja,hotel 4 estrellas,False,False,False,False,False,
-50,unidad familiar,hotel 3 estrellas,False,False,False,False,True,
-43,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
-25,amigos,apartamento / viviendas uso turístico,True,True,True,False,True,
-55,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,
-33,pareja,hotel 4 estrellas,False,False,False,False,True,
-49,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-49,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
-23,amigos,hotel 4 estrellas,False,True,True,False,True,
-55,pareja,hotel 3 estrellas,True,True,True,False,True,
-36,amigos,hotel 4 estrellas,True,False,True,False,True,
-31,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
-40,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
-58,amigos,hotel 5 estrellas,False,False,True,True,True,
-46,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-36,amigos,apartamento / viviendas uso turístico,True,True,False,False,True,
-43,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
-69,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-34,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
-52,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,False,
-31,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
-35,pareja,hotel 3 estrellas,False,False,True,False,True,
-66,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
-43,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
-48,unidad familiar,hotel 5 estrellas,False,True,False,False,True,
-47,pareja,hotel 4 estrellas,False,False,True,False,False,
-58,pareja,apartamento / viviendas uso turístico,True,True,True,False,True,
-55,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
-39,pareja,hotel 4 estrellas,True,True,True,False,True,
-45,amigos,apartamento / viviendas uso turístico,False,True,True,False,False,
-41,unidad familiar,hotel 5 estrellas,True,False,True,False,False,
-46,unidad familiar,hotel 4 estrellas,True,True,True,True,True,
-49,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
-54,pareja,hotel 3 estrellas,False,False,True,False,True,
-43,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
-48,unidad familiar,hotel 5 estrellas,False,False,False,False,True,
-63,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
-37,unidad familiar,hotel 4 estrellas,True,False,True,True,True,
+64,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+61,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+75,pareja,hotel 5 estrellas,False,False,True,False,True,
+67,pareja,apartamento / viviendas uso turístico,True,False,False,False,True,
+81,pareja,hotel 5 estrellas,False,False,True,False,True,
+81,pareja,hotel 5 estrellas,False,False,True,False,True,
+52,pareja,hotel 5 estrellas,False,False,True,False,True,
+56,amigos,hotel 5 estrellas,True,False,True,False,True,
+77,amigos,apartamento / viviendas uso turístico,True,False,True,True,True,
+70,amigos,hotel 4 estrellas,False,False,False,False,True,
+51,pareja,hotel 5 estrellas,True,False,True,False,True,
+64,pareja,hotel 4 estrellas,False,False,True,False,True,
+59,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
+56,pareja,hotel 4 estrellas,False,True,True,False,True,
+76,pareja,hotel 4 estrellas,True,False,True,False,True,
+52,pareja,hotel 5 estrellas,False,False,True,False,True,
+77,pareja,hotel 5 estrellas,True,False,True,False,True,
 54,pareja,hotel 4 estrellas,False,False,True,False,True,
-56,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
-62,pareja,hotel 5 estrellas,False,False,True,False,True,
-64,unidad familiar,hotel 3 estrellas,False,False,False,True,True,
-50,unidad familiar,hotel 3 estrellas,False,False,True,False,True,
-46,unidad familiar,hotel 4 estrellas,True,True,True,False,True,
-46,unidad familiar,hotel 5 estrellas,False,True,True,False,True,
-29,pareja,hotel 3 estrellas,False,True,False,True,True,True
-25,amigos,hotel 3 estrellas,True,False,False,False,True,True
-27,amigos,hotel 3 estrellas,False,False,False,False,True,True
-29,amigos,apartamento / viviendas uso turístico,False,True,False,True,True,True
-24,amigos,otros,False,False,False,True,True,True
-24,pareja,hotel 3 estrellas,False,False,False,False,True,True
-26,amigos,hotel 3 estrellas,False,False,False,False,True,True
-26,amigos,otros,True,False,False,False,True,True
-33,amigos,otros,False,True,False,False,True,True
-25,amigos,otros,False,False,False,True,True,True
-27,amigos,otros,False,False,False,False,True,True
-26,pareja,hotel 3 estrellas,False,True,True,True,False,True
-29,amigos,hotel 3 estrellas,False,False,True,True,True,True
-27,amigos,hotel 3 estrellas,True,True,True,True,True,False
-29,pareja,otros,False,False,False,False,False,True
-30,amigos,otros,False,False,False,True,True,True
-25,amigos,otros,True,False,True,False,False,True
-20,amigos,otros,False,False,False,False,True,True
-28,pareja,otros,False,False,True,True,True,True
-26,amigos,otros,False,True,True,True,True,True
-27,amigos,apartamento / viviendas uso turístico,False,False,True,True,True,True
-29,amigos,hotel 3 estrellas,False,False,False,True,True,True
-23,amigos,apartamento / viviendas uso turístico,False,True,True,False,False,True
-29,amigos,otros,False,False,False,False,True,True
-28,amigos,otros,True,False,False,False,False,True
-23,amigos,otros,False,True,True,True,False,True
-26,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,True
-27,amigos,hotel 3 estrellas,False,False,True,False,True,True
-28,amigos,hotel 3 estrellas,False,False,True,False,True,True
-26,amigos,hotel 3 estrellas,False,True,True,True,False,True
-29,amigos,otros,False,True,False,True,True,True
-28,amigos,otros,False,True,False,True,True,False
-28,amigos,otros,False,False,True,False,True,False
-25,amigos,otros,False,True,True,True,True,True
-23,amigos,otros,True,False,True,True,False,True
-27,pareja,otros,False,True,True,False,True,True
-26,amigos,otros,False,True,False,False,True,True
-23,amigos,hotel 3 estrellas,False,False,True,False,False,True
-27,amigos,otros,False,True,False,False,True,True
-28,amigos,otros,True,False,True,False,True,True
-23,amigos,otros,False,False,True,False,False,True
-25,amigos,otros,False,False,False,False,True,True
-28,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,True
-30,amigos,otros,False,False,True,False,True,False
-26,amigos,otros,False,True,True,True,False,True
-27,amigos,hotel 3 estrellas,False,True,False,False,False,False
-28,amigos,otros,False,True,True,True,False,True
-23,amigos,otros,False,False,False,False,False,True
-28,pareja,otros,True,False,True,False,True,True
-26,pareja,otros,False,False,True,False,True,True
-27,amigos,otros,False,False,False,True,False,True
-25,amigos,hotel 3 estrellas,False,False,True,True,True,True
-23,amigos,hotel 3 estrellas,False,False,True,False,True,True
-26,amigos,otros,False,False,True,False,True,True
-28,amigos,otros,False,False,False,True,True,True
+46,pareja,hotel 5 estrellas,False,False,True,False,True,
+62,pareja,hotel 5 estrellas,False,False,True,True,True,
+73,pareja,hotel 5 estrellas,False,True,True,False,True,
+73,pareja,hotel 5 estrellas,False,False,True,True,True,
+65,unidad familiar,hotel 5 estrellas,False,True,True,True,True,
+70,pareja,hotel 5 estrellas,False,False,True,False,True,
+71,pareja,hotel 5 estrellas,False,False,False,False,True,
+82,pareja,hotel 5 estrellas,False,False,True,True,False,
+56,amigos,hotel 4 estrellas,False,True,True,False,True,
+67,pareja,hotel 5 estrellas,False,False,True,False,True,
+68,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
+74,pareja,hotel 5 estrellas,False,False,True,False,True,
+76,amigos,hotel 4 estrellas,False,False,True,True,True,
+77,pareja,hotel 4 estrellas,True,False,True,False,True,
+63,pareja,hotel 5 estrellas,True,False,True,True,True,
+82,pareja,hotel 5 estrellas,False,False,True,False,False,
+61,pareja,hotel 4 estrellas,False,False,True,False,True,
+66,pareja,hotel 5 estrellas,False,False,True,False,True,
+62,amigos,hotel 5 estrellas,True,False,True,False,True,
+55,amigos,hotel 4 estrellas,True,False,True,False,False,
+54,pareja,hotel 5 estrellas,False,False,True,True,True,
+67,unidad familiar,hotel 5 estrellas,True,False,True,False,True,
+57,pareja,hotel 4 estrellas,True,True,True,False,True,
+59,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+68,pareja,hotel 5 estrellas,False,False,True,False,True,
+78,amigos,hotel 5 estrellas,False,False,False,False,True,
+82,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+72,amigos,hotel 4 estrellas,False,False,True,False,True,
+70,amigos,hotel 5 estrellas,False,False,True,True,True,
+52,pareja,hotel 4 estrellas,False,False,True,False,True,
+53,pareja,hotel 4 estrellas,False,False,True,False,True,
+58,pareja,hotel 4 estrellas,False,False,True,False,True,
+44,amigos,hotel 5 estrellas,False,False,True,False,True,
+49,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+70,pareja,hotel 5 estrellas,False,False,True,False,True,
+49,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+59,pareja,hotel 5 estrellas,False,False,True,False,True,
+47,amigos,hotel 5 estrellas,True,False,True,False,True,
+59,pareja,hotel 5 estrellas,True,False,True,True,True,
+73,pareja,hotel 4 estrellas,True,False,True,False,True,
+66,amigos,hotel 5 estrellas,False,False,True,False,True,
+54,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
+65,amigos,hotel 4 estrellas,False,False,True,False,True,
+69,pareja,hotel 5 estrellas,False,False,True,False,True,
+73,pareja,hotel 4 estrellas,False,False,True,False,True,
+85,amigos,hotel 4 estrellas,False,False,True,True,True,
+46,pareja,hotel 4 estrellas,False,False,True,False,True,
+68,pareja,hotel 5 estrellas,False,False,True,False,True,
+57,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+70,amigos,hotel 5 estrellas,True,False,True,False,True,
+67,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+74,amigos,hotel 4 estrellas,False,False,True,False,True,
+43,pareja,hotel 5 estrellas,False,False,True,False,True,
+82,pareja,hotel 4 estrellas,False,False,True,False,True,
+82,pareja,hotel 4 estrellas,False,False,True,False,True,
+64,pareja,hotel 5 estrellas,False,False,True,False,False,
+66,pareja,hotel 4 estrellas,False,False,True,False,True,
+76,pareja,hotel 4 estrellas,False,False,True,False,True,
+79,pareja,apartamento / viviendas uso turístico,True,False,True,False,False,
+46,pareja,hotel 5 estrellas,False,False,True,False,True,
+60,amigos,hotel 5 estrellas,False,False,True,True,True,
+83,amigos,hotel 4 estrellas,False,False,True,False,True,
+63,amigos,hotel 4 estrellas,False,False,True,True,True,
+68,amigos,hotel 4 estrellas,False,False,True,False,True,
+43,amigos,hotel 4 estrellas,False,False,True,False,True,
+54,amigos,hotel 5 estrellas,False,False,True,False,True,
+69,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+47,amigos,hotel 5 estrellas,False,False,True,False,False,
+92,pareja,hotel 5 estrellas,False,False,True,True,True,
+70,pareja,hotel 4 estrellas,False,False,True,False,True,
+82,pareja,hotel 5 estrellas,False,False,True,True,True,
+49,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
+79,amigos,hotel 4 estrellas,False,False,True,False,True,
+84,amigos,hotel 4 estrellas,True,False,True,True,False,
+78,amigos,hotel 5 estrellas,False,False,True,False,True,
+42,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+71,amigos,hotel 4 estrellas,False,False,True,False,True,
+51,pareja,hotel 4 estrellas,False,False,True,False,True,
+71,amigos,hotel 5 estrellas,False,False,True,True,True,
+64,pareja,hotel 4 estrellas,True,False,True,False,True,
+67,amigos,hotel 4 estrellas,False,False,True,False,True,
+67,amigos,hotel 5 estrellas,True,False,True,False,True,
+56,pareja,hotel 5 estrellas,False,False,True,False,True,
+80,pareja,hotel 4 estrellas,False,False,True,False,True,
+61,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+64,amigos,hotel 4 estrellas,False,False,True,False,True,
+62,pareja,hotel 5 estrellas,False,False,True,True,True,
+68,pareja,hotel 5 estrellas,True,False,True,False,True,
+74,amigos,hotel 4 estrellas,False,False,True,False,True,
+83,amigos,hotel 5 estrellas,False,False,True,True,True,
+75,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,
+68,amigos,hotel 5 estrellas,False,False,True,True,True,
+83,pareja,hotel 5 estrellas,False,False,True,False,True,
+77,amigos,hotel 5 estrellas,False,False,True,False,True,
+63,pareja,hotel 5 estrellas,False,False,True,False,True,
+67,pareja,hotel 4 estrellas,False,False,True,False,True,
+66,pareja,hotel 4 estrellas,False,False,True,True,True,
+51,amigos,hotel 5 estrellas,False,False,False,True,True,
+52,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+75,amigos,hotel 4 estrellas,False,True,True,False,True,
+66,amigos,hotel 5 estrellas,False,False,True,False,True,
+68,amigos,hotel 5 estrellas,False,False,True,False,True,
+71,unidad familiar,hotel 5 estrellas,True,False,True,False,True,
+67,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+76,amigos,hotel 5 estrellas,True,False,True,False,True,
+70,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
+53,pareja,hotel 5 estrellas,False,False,True,False,True,
+72,pareja,hotel 5 estrellas,False,False,True,False,True,
+68,pareja,hotel 4 estrellas,False,False,True,False,True,
+60,amigos,hotel 5 estrellas,False,False,True,False,True,
+79,amigos,hotel 4 estrellas,False,False,True,True,True,
+54,pareja,hotel 5 estrellas,False,False,True,False,True,
+49,amigos,hotel 5 estrellas,False,False,True,False,True,
+72,pareja,hotel 5 estrellas,False,False,True,True,True,
+66,pareja,hotel 4 estrellas,False,False,True,False,True,
+65,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+56,pareja,hotel 5 estrellas,False,False,True,False,True,
+42,pareja,hotel 4 estrellas,False,False,True,False,True,
+69,pareja,hotel 4 estrellas,False,False,True,False,True,
+83,pareja,hotel 5 estrellas,True,False,True,False,True,
+74,pareja,hotel 4 estrellas,False,False,True,False,True,
+83,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+70,pareja,hotel 5 estrellas,False,False,True,False,True,
+71,amigos,hotel 4 estrellas,False,False,True,False,True,
+81,pareja,hotel 5 estrellas,False,False,True,False,True,
+79,amigos,hotel 5 estrellas,False,False,True,False,True,
+56,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+72,pareja,hotel 5 estrellas,False,False,True,False,True,
+72,pareja,hotel 5 estrellas,True,True,True,False,True,
+71,pareja,hotel 4 estrellas,False,False,True,False,True,
+66,pareja,hotel 5 estrellas,False,False,True,False,True,
+80,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+50,pareja,hotel 4 estrellas,False,True,True,False,True,
+60,pareja,hotel 5 estrellas,False,False,True,False,True,
+69,amigos,hotel 5 estrellas,False,False,True,False,True,
+41,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+69,amigos,hotel 4 estrellas,False,False,True,False,True,
+61,amigos,hotel 4 estrellas,False,False,True,False,True,
+76,pareja,hotel 4 estrellas,False,False,True,False,True,
+66,pareja,hotel 4 estrellas,False,False,True,True,True,
+53,amigos,hotel 5 estrellas,False,False,True,False,True,
+72,pareja,hotel 5 estrellas,False,True,True,False,True,
+78,amigos,hotel 4 estrellas,False,False,True,False,False,
+71,unidad familiar,hotel 4 estrellas,False,False,True,True,True,
+48,amigos,hotel 4 estrellas,False,False,True,False,True,
+65,pareja,hotel 5 estrellas,False,False,True,False,True,
+75,amigos,hotel 5 estrellas,True,False,True,False,True,
+71,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+57,pareja,hotel 5 estrellas,False,False,True,True,True,
+60,amigos,hotel 4 estrellas,False,False,True,False,True,
+78,amigos,hotel 5 estrellas,False,False,True,False,True,
+56,pareja,hotel 5 estrellas,False,False,True,False,True,
+59,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+67,amigos,hotel 4 estrellas,True,False,True,False,True,
+63,pareja,hotel 5 estrellas,True,False,True,False,True,
+74,pareja,hotel 5 estrellas,False,False,True,False,True,
+71,amigos,hotel 5 estrellas,False,False,True,False,False,
+60,amigos,hotel 5 estrellas,False,False,True,False,True,
+51,pareja,hotel 4 estrellas,False,False,True,True,True,
+79,amigos,hotel 5 estrellas,False,True,True,False,True,
+48,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+68,pareja,hotel 5 estrellas,False,False,True,False,True,
+80,pareja,hotel 5 estrellas,False,True,True,False,True,
+68,pareja,hotel 4 estrellas,True,False,True,False,False,
+43,pareja,hotel 5 estrellas,False,False,True,False,True,
+76,pareja,hotel 5 estrellas,False,False,True,True,True,
+81,pareja,hotel 5 estrellas,False,False,True,False,True,
+70,pareja,hotel 5 estrellas,False,False,True,False,True,
+81,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
+64,pareja,hotel 4 estrellas,False,False,True,True,True,
+68,pareja,hotel 5 estrellas,False,False,True,False,True,
+66,pareja,hotel 5 estrellas,False,False,True,False,True,
+83,amigos,hotel 4 estrellas,False,True,True,False,True,
+60,pareja,hotel 5 estrellas,False,False,True,False,True,
+43,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
+51,pareja,hotel 5 estrellas,False,False,True,False,True,
+77,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+44,amigos,hotel 4 estrellas,False,False,True,False,True,
+83,pareja,hotel 4 estrellas,False,False,True,False,True,
+65,pareja,hotel 5 estrellas,True,False,False,False,True,
+62,pareja,hotel 4 estrellas,False,False,True,False,True,
+44,pareja,hotel 4 estrellas,False,False,True,False,True,
+87,amigos,hotel 5 estrellas,True,False,True,False,True,
+67,pareja,hotel 5 estrellas,False,False,True,True,True,
+56,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,False,
+62,amigos,hotel 5 estrellas,True,True,True,False,True,
+49,amigos,hotel 5 estrellas,False,False,True,False,True,
+48,amigos,hotel 4 estrellas,False,False,False,False,True,
+68,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+55,pareja,hotel 5 estrellas,False,True,True,False,True,
+53,pareja,hotel 4 estrellas,False,False,True,False,True,
+66,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+48,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+54,amigos,hotel 4 estrellas,False,False,True,False,True,
+72,pareja,hotel 5 estrellas,True,True,True,False,True,
+83,amigos,hotel 5 estrellas,False,False,True,False,True,
+62,pareja,hotel 4 estrellas,False,False,True,False,True,
+54,pareja,hotel 5 estrellas,True,False,True,True,False,
+51,amigos,hotel 5 estrellas,False,False,False,True,True,
+69,amigos,hotel 5 estrellas,True,False,False,False,True,
+68,amigos,hotel 5 estrellas,True,False,True,False,False,
+56,pareja,hotel 5 estrellas,False,False,True,True,True,
+87,amigos,hotel 5 estrellas,False,False,False,True,False,
+68,pareja,hotel 5 estrellas,False,False,True,True,True,
+72,amigos,hotel 5 estrellas,False,False,False,True,True,
+64,pareja,hotel 5 estrellas,True,False,True,True,True,
+67,pareja,hotel 5 estrellas,False,False,False,True,True,
+79,amigos,hotel 5 estrellas,False,False,True,True,True,
+77,pareja,hotel 5 estrellas,False,False,True,True,False,
+54,amigos,hotel 5 estrellas,True,False,True,True,True,
+56,pareja,hotel 5 estrellas,False,False,True,False,False,
+52,unidad familiar,hotel 5 estrellas,False,False,True,True,False,
+74,pareja,hotel 5 estrellas,False,True,True,True,False,
+45,amigos,hotel 5 estrellas,False,False,False,False,True,
+64,pareja,hotel 5 estrellas,False,False,False,False,True,
+84,pareja,hotel 5 estrellas,False,False,False,False,True,
+62,pareja,hotel 5 estrellas,False,False,False,True,True,
+65,pareja,hotel 4 estrellas,False,False,False,True,True,
+71,pareja,hotel 5 estrellas,False,False,False,True,True,
+74,pareja,hotel 5 estrellas,False,False,True,True,True,
+79,amigos,hotel 5 estrellas,False,False,False,False,True,
+53,pareja,hotel 5 estrellas,False,False,False,True,False,
+81,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+55,pareja,hotel 5 estrellas,False,False,False,True,False,
+74,pareja,hotel 5 estrellas,False,False,True,True,True,
+77,pareja,hotel 5 estrellas,False,False,True,True,True,
+80,pareja,hotel 5 estrellas,True,False,True,True,True,
+54,pareja,hotel 4 estrellas,False,False,False,True,True,
+73,pareja,hotel 5 estrellas,False,False,True,True,False,
+57,amigos,hotel 4 estrellas,False,False,True,True,True,
+66,pareja,hotel 4 estrellas,False,False,False,True,True,
+66,amigos,hotel 5 estrellas,False,False,False,True,True,
+60,pareja,hotel 5 estrellas,False,False,False,False,False,
+78,pareja,hotel 5 estrellas,False,False,True,True,False,
+73,amigos,hotel 5 estrellas,False,False,True,True,False,
+69,amigos,hotel 5 estrellas,False,False,False,True,False,
+62,pareja,hotel 5 estrellas,False,False,False,True,True,
+79,amigos,hotel 5 estrellas,False,False,False,True,True,
+68,pareja,hotel 5 estrellas,False,False,True,False,True,
+62,pareja,hotel 5 estrellas,False,False,False,True,True,
+54,pareja,hotel 5 estrellas,True,False,True,True,True,
+72,pareja,hotel 5 estrellas,False,False,False,True,True,
+79,pareja,hotel 4 estrellas,True,False,False,True,False,
+73,amigos,hotel 5 estrellas,False,False,True,True,True,
+78,pareja,hotel 5 estrellas,False,False,True,True,True,
+45,amigos,hotel 5 estrellas,True,False,True,True,False,
+78,amigos,hotel 5 estrellas,False,False,True,True,True,
+47,pareja,hotel 4 estrellas,True,False,True,True,True,
+72,pareja,hotel 5 estrellas,False,False,False,True,True,
+53,amigos,hotel 5 estrellas,False,False,False,True,False,
+45,pareja,hotel 4 estrellas,False,False,True,True,True,
+78,amigos,hotel 5 estrellas,False,False,True,True,True,
+75,amigos,hotel 5 estrellas,False,False,False,True,False,
+77,pareja,hotel 5 estrellas,True,False,False,True,True,
+61,pareja,hotel 5 estrellas,False,False,True,True,True,
+46,pareja,hotel 4 estrellas,False,False,False,True,True,
+84,pareja,hotel 5 estrellas,False,False,True,True,True,
+85,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
+61,pareja,hotel 5 estrellas,False,False,False,True,True,
+76,pareja,hotel 5 estrellas,True,False,False,True,True,
+65,amigos,hotel 5 estrellas,False,False,False,False,True,
+83,pareja,hotel 5 estrellas,False,False,True,True,True,
+74,pareja,hotel 5 estrellas,False,False,False,True,True,
+78,pareja,hotel 5 estrellas,False,False,True,False,True,
+53,pareja,hotel 5 estrellas,False,False,False,True,True,
+51,amigos,hotel 5 estrellas,False,False,False,True,True,
+64,amigos,apartamento / viviendas uso turístico,False,False,True,True,True,
+69,amigos,hotel 4 estrellas,False,False,True,False,True,
+66,pareja,hotel 5 estrellas,False,False,True,True,True,
+65,pareja,hotel 5 estrellas,False,False,True,True,True,
+73,pareja,hotel 5 estrellas,True,False,False,True,True,
+70,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+84,unidad familiar,hotel 5 estrellas,False,False,False,True,True,
+79,amigos,hotel 5 estrellas,False,False,False,True,False,
+51,pareja,hotel 5 estrellas,True,False,True,True,True,
+55,pareja,hotel 5 estrellas,True,False,True,True,True,
+49,amigos,hotel 5 estrellas,False,False,False,True,True,
+77,pareja,hotel 5 estrellas,False,False,False,False,True,
+51,pareja,hotel 5 estrellas,False,False,True,True,False,
+68,amigos,hotel 5 estrellas,False,False,True,True,True,
+72,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
+79,pareja,hotel 5 estrellas,False,False,True,False,True,
+46,pareja,hotel 5 estrellas,False,False,False,True,True,
+54,pareja,hotel 5 estrellas,False,False,True,True,True,
+61,pareja,hotel 5 estrellas,False,False,True,True,False,
+68,pareja,hotel 5 estrellas,False,False,True,True,False,
+53,pareja,hotel 5 estrellas,False,False,True,True,True,
+58,amigos,hotel 5 estrellas,False,False,False,True,True,
+80,amigos,hotel 5 estrellas,False,False,False,True,True,
+75,pareja,apartamento / viviendas uso turístico,True,False,True,True,True,
+79,amigos,hotel 5 estrellas,False,False,True,False,True,
+47,amigos,hotel 5 estrellas,False,False,True,True,False,
+62,unidad familiar,hotel 5 estrellas,False,False,False,True,False,
+68,pareja,hotel 5 estrellas,False,False,False,True,True,
+69,pareja,hotel 5 estrellas,True,False,False,True,True,
+61,pareja,hotel 5 estrellas,False,False,True,True,False,
+77,pareja,hotel 5 estrellas,False,False,False,True,True,
+76,pareja,hotel 4 estrellas,False,False,True,True,True,
+64,pareja,hotel 5 estrellas,False,False,False,True,True,
+74,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+44,pareja,hotel 5 estrellas,True,False,True,True,True,
+69,pareja,hotel 5 estrellas,False,False,False,True,True,
+83,amigos,hotel 4 estrellas,False,False,False,True,True,
+77,amigos,hotel 5 estrellas,False,False,True,True,True,
+47,amigos,hotel 5 estrellas,False,False,True,True,True,
+85,pareja,apartamento / viviendas uso turístico,False,False,False,True,False,
+58,unidad familiar,hotel 5 estrellas,False,True,False,True,True,
+50,pareja,hotel 5 estrellas,False,False,True,True,False,
+74,pareja,hotel 4 estrellas,False,False,True,True,False,
+61,pareja,hotel 5 estrellas,False,False,True,True,True,
+83,amigos,hotel 5 estrellas,False,False,True,True,True,
+65,pareja,hotel 5 estrellas,False,False,True,True,True,
+45,amigos,hotel 5 estrellas,False,False,True,True,True,
+63,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+57,pareja,hotel 5 estrellas,True,False,True,False,False,
+42,pareja,hotel 5 estrellas,True,False,False,True,True,
+55,pareja,hotel 5 estrellas,False,False,False,True,True,
+79,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+60,pareja,hotel 5 estrellas,False,False,True,True,False,
+51,pareja,hotel 4 estrellas,False,False,True,True,True,
+47,pareja,hotel 5 estrellas,False,False,True,True,True,
+66,pareja,hotel 5 estrellas,False,False,True,False,True,
+43,amigos,hotel 5 estrellas,False,False,False,True,True,
+69,pareja,hotel 5 estrellas,True,False,True,True,True,
+77,amigos,hotel 5 estrellas,True,False,False,True,True,
+47,pareja,hotel 5 estrellas,False,False,True,False,True,
+61,amigos,hotel 5 estrellas,False,True,False,False,True,
+69,pareja,hotel 5 estrellas,False,False,True,True,True,
+75,amigos,hotel 5 estrellas,True,False,True,True,True,
+61,amigos,hotel 5 estrellas,False,False,False,True,False,
+51,pareja,hotel 5 estrellas,False,False,False,True,True,
+68,unidad familiar,hotel 5 estrellas,False,False,True,True,False,
+65,unidad familiar,hotel 5 estrellas,False,False,True,True,True,
+64,pareja,hotel 5 estrellas,False,False,False,True,False,
+75,pareja,hotel 5 estrellas,False,False,True,True,True,
+67,pareja,hotel 5 estrellas,False,False,False,True,True,
+53,pareja,hotel 5 estrellas,False,False,True,True,True,
+83,amigos,hotel 5 estrellas,False,False,True,False,True,
+62,pareja,hotel 5 estrellas,False,False,True,True,True,
+49,pareja,hotel 5 estrellas,False,False,False,False,True,
+68,pareja,hotel 5 estrellas,False,False,True,True,True,
+61,unidad familiar,hotel 5 estrellas,True,True,False,False,True,
+78,pareja,apartamento / viviendas uso turístico,False,False,True,True,False,
+66,pareja,hotel 5 estrellas,False,False,True,True,True,
+63,amigos,hotel 5 estrellas,False,False,False,True,True,
+66,pareja,hotel 5 estrellas,False,False,True,False,True,
+40,unidad familiar,hotel 4 estrellas,False,False,True,True,True,
+69,amigos,hotel 5 estrellas,False,False,False,True,True,
+74,pareja,hotel 5 estrellas,False,False,False,True,True,
+69,pareja,hotel 5 estrellas,False,False,False,True,False,
+59,pareja,hotel 5 estrellas,False,False,True,False,True,
+51,unidad familiar,hotel 5 estrellas,False,False,True,True,False,
+57,pareja,hotel 4 estrellas,True,False,True,True,True,
+42,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
+46,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+37,unidad familiar,hotel 3 estrellas,False,True,True,False,True,
+23,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
+53,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+43,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,
+28,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+43,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+52,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+53,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+26,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+47,unidad familiar,apartamento / viviendas uso turístico,True,True,True,False,True,
+41,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+36,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
+38,unidad familiar,apartamento / viviendas uso turístico,False,False,True,True,True,
+33,amigos,hotel 4 estrellas,False,False,True,True,True,
+41,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+42,unidad familiar,hotel 3 estrellas,True,False,False,False,True,
+44,pareja,hotel 4 estrellas,False,False,False,True,False,
+43,pareja,hotel 4 estrellas,False,False,False,False,False,
+40,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,False,
+45,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+48,pareja,apartamento / viviendas uso turístico,False,True,False,False,True,
+48,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,
+54,pareja,hotel 4 estrellas,True,False,True,False,False,
+29,amigos,apartamento / viviendas uso turístico,False,False,True,True,False,
+52,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+34,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
+44,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+48,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+45,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+56,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+37,pareja,hotel 4 estrellas,False,False,False,False,True,
+45,amigos,apartamento / viviendas uso turístico,False,True,True,True,True,
+40,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+32,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
+38,unidad familiar,hotel 4 estrellas,False,False,False,True,False,
+23,pareja,hotel 5 estrellas,True,True,True,False,True,
+39,pareja,apartamento / viviendas uso turístico,False,True,False,False,False,
+54,pareja,apartamento / viviendas uso turístico,False,True,False,False,True,
+54,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,
+44,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+49,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,False,
+53,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
+59,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
+59,unidad familiar,hotel 5 estrellas,False,False,False,False,True,
+43,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
+58,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,
+44,amigos,hotel 4 estrellas,False,False,True,False,False,
+54,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+44,pareja,hotel 3 estrellas,False,False,True,False,True,
+52,amigos,hotel 4 estrellas,False,False,True,False,False,
+50,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+32,pareja,hotel 5 estrellas,False,False,True,False,True,
+37,unidad familiar,hotel 4 estrellas,True,True,True,False,False,
+42,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,
+42,amigos,hotel 4 estrellas,True,False,False,False,True,
+38,unidad familiar,hotel 3 estrellas,False,False,False,False,False,
+51,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
+38,unidad familiar,hotel 3 estrellas,True,False,False,False,True,
+21,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+41,amigos,hotel 3 estrellas,False,False,False,False,False,
+47,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+48,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+49,unidad familiar,hotel 5 estrellas,True,False,True,False,True,
+42,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+55,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
+42,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+55,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+51,unidad familiar,hotel 3 estrellas,False,False,True,False,False,
+28,unidad familiar,hotel 4 estrellas,False,False,True,True,True,
+25,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+57,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+47,pareja,hotel 4 estrellas,False,False,True,False,True,
+32,unidad familiar,hotel 4 estrellas,False,False,False,False,False,
+43,pareja,hotel 4 estrellas,True,False,True,False,True,
+53,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
+48,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+51,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+54,unidad familiar,hotel 3 estrellas,False,False,True,True,True,
+36,unidad familiar,apartamento / viviendas uso turístico,False,True,False,True,False,
+16,pareja,hotel 4 estrellas,False,False,True,False,False,
+38,amigos,hotel 3 estrellas,False,False,True,False,True,
+37,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,False,
+43,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+51,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
+42,amigos,hotel 4 estrellas,False,False,False,False,True,
+58,unidad familiar,hotel 5 estrellas,True,True,True,False,True,
+46,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+42,amigos,apartamento / viviendas uso turístico,True,False,True,False,True,
+39,unidad familiar,hotel 3 estrellas,False,False,True,False,True,
+66,unidad familiar,apartamento / viviendas uso turístico,True,False,True,True,True,
+52,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+39,unidad familiar,hotel 3 estrellas,True,False,True,False,True,
+35,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+49,unidad familiar,hotel 5 estrellas,False,False,True,False,False,
+61,amigos,hotel 3 estrellas,False,False,False,False,False,
+36,unidad familiar,hotel 5 estrellas,False,True,False,False,True,
+44,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
+51,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+46,pareja,hotel 3 estrellas,False,False,False,False,True,
+21,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+34,amigos,hotel 4 estrellas,False,True,False,False,True,
+40,pareja,hotel 4 estrellas,False,False,True,False,True,
+33,amigos,hotel 3 estrellas,False,False,True,False,True,
+60,unidad familiar,hotel 4 estrellas,True,True,True,False,True,
+58,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+31,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+39,pareja,apartamento / viviendas uso turístico,False,True,False,False,False,
+45,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
+33,unidad familiar,hotel 4 estrellas,False,False,False,False,False,
+38,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,False,
+49,amigos,hotel 4 estrellas,True,False,True,False,True,
+39,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+31,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+49,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+49,amigos,apartamento / viviendas uso turístico,True,True,False,False,True,
+19,amigos,hotel 3 estrellas,False,False,False,False,True,
+70,unidad familiar,hotel 3 estrellas,False,False,True,False,False,
+51,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+41,unidad familiar,hotel 3 estrellas,False,False,True,False,False,
+38,amigos,hotel 4 estrellas,False,False,True,False,True,
+43,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+60,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+54,unidad familiar,hotel 4 estrellas,True,False,True,False,False,
+32,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+52,unidad familiar,apartamento / viviendas uso turístico,False,True,False,True,True,
+42,unidad familiar,hotel 4 estrellas,True,False,True,False,False,
+24,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+31,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
+37,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+41,amigos,hotel 4 estrellas,False,False,True,False,True,
+56,amigos,apartamento / viviendas uso turístico,False,False,True,True,True,
+40,amigos,hotel 4 estrellas,True,True,False,False,True,
+49,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+42,unidad familiar,hotel 4 estrellas,False,False,False,False,False,
+44,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,
+45,amigos,hotel 5 estrellas,False,False,False,False,True,
+29,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
+49,unidad familiar,hotel 4 estrellas,False,True,True,False,False,
+36,unidad familiar,hotel 4 estrellas,False,True,True,True,True,
+44,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,False,
+36,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,False,
+39,unidad familiar,hotel 5 estrellas,True,False,False,False,True,
+38,unidad familiar,hotel 3 estrellas,True,False,False,False,True,
+45,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+54,unidad familiar,apartamento / viviendas uso turístico,False,True,False,True,False,
+36,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+53,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,
+52,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+37,amigos,hotel 3 estrellas,False,False,True,False,True,
+47,amigos,hotel 5 estrellas,False,False,True,False,True,
+34,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+37,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+42,amigos,hotel 5 estrellas,True,False,False,False,True,
+48,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
+37,unidad familiar,hotel 3 estrellas,False,False,True,False,True,
+38,amigos,hotel 5 estrellas,True,False,True,False,False,
+37,pareja,hotel 3 estrellas,False,True,True,True,True,
+42,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,False,
+56,amigos,hotel 4 estrellas,False,False,True,False,True,
+46,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+58,pareja,hotel 4 estrellas,False,False,True,False,True,
+25,amigos,hotel 4 estrellas,False,True,True,False,True,
+38,unidad familiar,hotel 4 estrellas,True,False,False,True,True,
+46,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,
+51,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+42,unidad familiar,hotel 3 estrellas,False,False,True,False,True,
+40,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+33,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,
+51,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+48,unidad familiar,apartamento / viviendas uso turístico,True,True,True,False,True,
+39,unidad familiar,apartamento / viviendas uso turístico,True,True,True,False,True,
+43,amigos,hotel 3 estrellas,False,False,True,False,True,
+43,unidad familiar,hotel 5 estrellas,False,False,True,False,False,
+48,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+34,amigos,hotel 5 estrellas,True,False,False,False,True,
+46,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+45,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,False,
+48,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,True,
+56,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+44,unidad familiar,hotel 3 estrellas,False,True,True,True,True,
+32,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+36,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+61,pareja,hotel 4 estrellas,False,False,True,False,True,
+39,pareja,apartamento / viviendas uso turístico,False,False,True,False,False,
+53,unidad familiar,hotel 4 estrellas,False,True,True,False,False,
+34,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,
+32,unidad familiar,apartamento / viviendas uso turístico,False,False,True,True,True,
+36,unidad familiar,hotel 4 estrellas,False,False,True,False,False,
+41,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+32,pareja,hotel 4 estrellas,False,False,False,False,False,
+40,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,
+43,pareja,hotel 3 estrellas,False,False,False,False,True,
+30,pareja,hotel 4 estrellas,False,True,True,False,True,
+43,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+33,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+46,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+28,pareja,hotel 4 estrellas,False,False,True,False,True,
+49,amigos,hotel 5 estrellas,False,False,True,False,True,
+44,unidad familiar,hotel 4 estrellas,True,False,True,False,True,
+48,amigos,hotel 5 estrellas,False,False,False,False,True,
+55,amigos,hotel 4 estrellas,False,True,True,True,True,
+35,unidad familiar,apartamento / viviendas uso turístico,False,False,False,False,False,
+53,unidad familiar,hotel 4 estrellas,True,False,False,False,True,
+39,unidad familiar,hotel 5 estrellas,False,True,False,False,True,
+51,unidad familiar,hotel 4 estrellas,True,True,True,True,True,
+45,amigos,hotel 4 estrellas,False,False,True,False,True,
+42,pareja,apartamento / viviendas uso turístico,False,True,True,False,False,
+47,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+58,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
+44,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
+48,unidad familiar,hotel 5 estrellas,False,False,True,False,True,
+35,unidad familiar,hotel 3 estrellas,False,False,False,False,True,
+41,unidad familiar,apartamento / viviendas uso turístico,True,False,False,False,True,
+57,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+36,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+42,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+43,unidad familiar,apartamento / viviendas uso turístico,True,False,True,True,True,
+55,pareja,apartamento / viviendas uso turístico,True,False,True,False,True,
+45,unidad familiar,hotel 5 estrellas,True,True,True,True,True,
+43,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+31,amigos,hotel 4 estrellas,False,False,True,False,True,
+24,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
+35,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+43,amigos,hotel 5 estrellas,False,True,False,False,True,
+65,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,
+48,amigos,hotel 4 estrellas,True,False,True,False,True,
+30,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+45,unidad familiar,hotel 5 estrellas,False,True,True,False,True,
+34,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+25,pareja,hotel 5 estrellas,False,False,True,False,True,
+46,pareja,hotel 5 estrellas,False,False,True,False,True,
+49,pareja,apartamento / viviendas uso turístico,False,True,True,False,True,
+47,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+44,amigos,hotel 3 estrellas,False,False,False,True,True,
+53,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
+36,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,False,
+34,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+36,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
+39,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+41,unidad familiar,hotel 5 estrellas,True,False,True,False,False,
+36,unidad familiar,hotel 4 estrellas,False,False,False,False,True,
+57,amigos,hotel 5 estrellas,False,False,True,False,False,
+39,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+44,amigos,hotel 4 estrellas,False,False,False,False,True,
+39,unidad familiar,hotel 4 estrellas,True,True,True,False,True,
+49,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+42,unidad familiar,apartamento / viviendas uso turístico,False,True,False,False,True,
+43,unidad familiar,hotel 4 estrellas,False,False,True,True,True,
+34,unidad familiar,hotel 5 estrellas,False,False,False,False,True,
+35,unidad familiar,apartamento / viviendas uso turístico,False,True,True,True,True,
+50,amigos,hotel 3 estrellas,False,False,False,False,False,
+55,amigos,hotel 4 estrellas,False,False,True,False,True,
+46,unidad familiar,hotel 5 estrellas,True,False,True,False,False,
+35,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
+42,pareja,apartamento / viviendas uso turístico,True,True,True,False,True,
+37,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+57,unidad familiar,hotel 3 estrellas,False,True,False,False,True,
+56,amigos,apartamento / viviendas uso turístico,False,True,False,False,False,
+54,unidad familiar,hotel 4 estrellas,False,False,False,True,True,
+67,unidad familiar,hotel 4 estrellas,False,True,True,False,True,
+49,pareja,apartamento / viviendas uso turístico,False,False,True,True,True,
+49,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+39,pareja,apartamento / viviendas uso turístico,True,True,True,False,False,
+50,amigos,hotel 3 estrellas,False,True,True,False,False,
+35,unidad familiar,apartamento / viviendas uso turístico,False,False,True,False,True,
+54,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+47,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
+53,unidad familiar,hotel 3 estrellas,False,True,False,False,True,
+43,amigos,hotel 4 estrellas,False,True,False,False,True,
+48,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+53,unidad familiar,hotel 4 estrellas,False,True,False,False,True,
+42,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,
+47,unidad familiar,hotel 4 estrellas,False,False,True,False,True,
+34,pareja,apartamento / viviendas uso turístico,True,False,True,True,True,
+35,unidad familiar,apartamento / viviendas uso turístico,False,False,False,True,True,
+36,unidad familiar,apartamento / viviendas uso turístico,True,False,True,False,True,
+52,unidad familiar,hotel 5 estrellas,False,False,True,False,False,
+39,pareja,hotel 3 estrellas,False,False,True,False,True,
+62,pareja,hotel 5 estrellas,True,True,True,False,True,
+47,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+66,unidad familiar,hotel 4 estrellas,False,True,False,True,False,
+47,unidad familiar,apartamento / viviendas uso turístico,False,True,True,False,True,
+29,pareja,otros,False,True,False,True,False,True
+28,amigos,otros,False,False,True,False,False,True
+22,amigos,hotel 3 estrellas,True,False,False,False,False,True
 26,amigos,otros,False,False,False,False,False,True
-26,pareja,hotel 3 estrellas,False,True,True,False,True,True
-23,amigos,otros,False,False,False,False,True,True
-26,amigos,otros,False,False,True,False,False,True
-26,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,False
-28,amigos,otros,False,False,False,False,True,True
-25,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
-25,pareja,otros,False,False,True,False,False,True
-29,amigos,otros,True,True,True,False,True,True
-28,amigos,otros,False,False,False,False,False,True
-27,amigos,otros,False,False,True,True,False,True
-24,amigos,otros,True,True,False,True,True,True
-22,amigos,otros,False,True,False,False,True,True
-27,amigos,otros,False,True,False,False,False,True
-25,amigos,otros,False,True,False,True,False,True
-26,amigos,apartamento / viviendas uso turístico,True,False,False,True,True,True
-22,pareja,otros,False,False,True,True,True,True
-24,amigos,otros,False,True,True,False,True,True
-27,amigos,otros,True,False,False,False,True,True
-24,pareja,otros,False,False,True,False,True,True
-24,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,True
-22,amigos,otros,False,False,False,True,True,True
-22,amigos,hotel 3 estrellas,True,False,False,True,True,True
-28,amigos,otros,False,True,True,True,True,True
-22,amigos,otros,False,False,False,False,False,True
-29,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,True
-24,amigos,otros,False,True,False,False,True,True
-24,pareja,hotel 3 estrellas,False,True,False,False,True,True
-26,amigos,otros,True,False,False,False,True,True
-29,amigos,otros,False,True,False,False,False,True
-23,pareja,otros,True,True,False,True,True,True
-27,amigos,apartamento / viviendas uso turístico,True,True,True,True,True,True
-24,amigos,hotel 3 estrellas,False,False,True,False,True,True
-28,amigos,otros,True,False,True,True,True,False
-28,amigos,otros,False,True,False,False,True,True
-22,amigos,otros,False,False,False,False,True,True
-22,amigos,otros,False,False,True,False,True,True
+27,amigos,otros,False,True,True,True,True,True
 24,amigos,otros,False,False,False,True,True,True
-27,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,True
-28,amigos,apartamento / viviendas uso turístico,False,True,False,True,True,True
-25,amigos,hotel 3 estrellas,True,False,False,False,True,True
-30,amigos,otros,False,True,False,True,True,True
-29,pareja,hotel 3 estrellas,True,False,True,False,True,True
-26,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,True
-25,amigos,hotel 3 estrellas,True,False,False,False,True,True
-27,amigos,hotel 3 estrellas,False,True,False,False,False,True
-24,pareja,otros,False,True,False,False,True,True
-26,pareja,otros,False,True,True,True,False,True
+26,pareja,otros,False,False,False,False,True,True
+25,pareja,apartamento / viviendas uso turístico,False,True,False,False,True,True
+25,pareja,apartamento / viviendas uso turístico,False,False,False,True,False,True
+25,amigos,hotel 3 estrellas,True,False,False,True,True,True
+25,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,True
+33,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+29,pareja,apartamento / viviendas uso turístico,False,False,False,False,True,True
+30,amigos,apartamento / viviendas uso turístico,True,False,True,False,False,True
+26,pareja,otros,False,True,False,False,False,True
+30,amigos,otros,True,False,False,False,False,False
+30,pareja,hotel 3 estrellas,False,True,False,False,True,True
+26,amigos,apartamento / viviendas uso turístico,False,False,False,True,False,True
+22,pareja,apartamento / viviendas uso turístico,False,True,False,False,False,True
+24,amigos,apartamento / viviendas uso turístico,True,False,True,True,True,True
 26,amigos,hotel 3 estrellas,False,False,False,True,True,True
-27,amigos,otros,False,False,False,False,True,True
-25,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,True
-23,amigos,otros,False,False,True,False,True,True
-25,pareja,hotel 3 estrellas,True,False,False,False,False,True
-32,amigos,hotel 3 estrellas,False,False,True,True,True,True
-27,amigos,hotel 3 estrellas,False,True,True,False,True,True
-27,amigos,otros,False,False,False,False,True,True
-27,amigos,otros,False,False,False,False,False,True
-25,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,True
-27,amigos,hotel 3 estrellas,False,False,False,False,True,True
-23,amigos,otros,False,False,True,True,False,True
-22,pareja,otros,False,False,True,True,True,True
-25,amigos,otros,False,True,True,False,False,True
-25,amigos,otros,False,False,False,False,True,True
-24,amigos,otros,False,False,False,False,False,True
-28,amigos,otros,False,True,True,True,True,True
-27,amigos,hotel 3 estrellas,False,True,False,False,True,True
-20,amigos,otros,False,False,True,False,False,True
-24,amigos,otros,False,False,False,False,False,True
-23,pareja,hotel 3 estrellas,False,False,True,True,True,True
-26,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
-28,amigos,otros,False,False,False,False,False,True
-31,amigos,hotel 3 estrellas,False,False,True,False,True,True
-29,amigos,otros,False,True,True,False,True,True
-29,pareja,otros,True,True,False,True,True,True
-24,amigos,hotel 3 estrellas,False,False,False,False,False,True
-29,amigos,hotel 3 estrellas,False,False,False,False,False,True
-24,pareja,otros,False,False,True,False,True,True
-26,amigos,otros,True,True,False,False,False,True
-25,amigos,hotel 3 estrellas,False,False,False,False,True,True
-31,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,True
-29,amigos,otros,False,True,True,False,True,True
-25,amigos,otros,False,False,False,True,True,True
-25,amigos,otros,False,False,True,True,True,True
-32,amigos,otros,False,False,True,True,True,True
-28,amigos,otros,False,False,True,False,True,True
-26,pareja,otros,False,True,False,False,True,False
-25,amigos,otros,False,False,False,False,True,True
-26,pareja,otros,False,False,True,True,True,True
-23,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,True
-24,pareja,apartamento / viviendas uso turístico,False,True,False,False,False,True
-29,amigos,otros,False,True,False,False,True,True
-24,pareja,otros,True,False,False,True,True,True
-22,amigos,apartamento / viviendas uso turístico,False,True,True,True,False,False
-32,amigos,hotel 3 estrellas,False,False,True,False,False,True
-22,amigos,otros,True,False,True,False,True,True
-25,amigos,hotel 3 estrellas,False,False,False,True,True,True
-22,amigos,hotel 3 estrellas,False,False,True,True,True,True
-27,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
-26,pareja,otros,False,False,False,False,False,True
-29,pareja,otros,True,False,False,False,True,True
-32,amigos,hotel 3 estrellas,False,False,False,False,True,True
-26,pareja,otros,False,False,False,True,True,True
-26,amigos,hotel 3 estrellas,False,False,False,False,True,True
-22,pareja,otros,True,False,False,True,True,False
-30,amigos,otros,False,False,True,True,False,True
-23,amigos,otros,False,True,False,True,True,True
-25,amigos,otros,False,False,True,False,True,True
-26,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,True
-29,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
-25,amigos,otros,False,False,False,False,False,True
-26,amigos,hotel 3 estrellas,False,False,True,False,True,True
-24,amigos,otros,False,True,False,True,True,True
-23,amigos,otros,False,False,True,False,True,True
-25,amigos,hotel 3 estrellas,False,False,False,True,True,False
-28,amigos,otros,False,False,False,True,True,True
-23,amigos,otros,False,False,False,True,False,True
-26,amigos,apartamento / viviendas uso turístico,True,False,True,False,False,True
-29,amigos,otros,False,False,False,False,False,True
+24,amigos,hotel 3 estrellas,False,True,True,False,True,True
+23,amigos,otros,False,True,False,False,False,True
+29,amigos,otros,False,False,False,True,True,False
+29,amigos,otros,False,False,False,True,True,True
+30,amigos,otros,False,False,True,False,True,True
+22,pareja,otros,False,True,True,True,True,True
+23,amigos,hotel 3 estrellas,False,True,False,True,True,True
+31,amigos,otros,False,False,False,False,True,True
+29,pareja,otros,False,False,True,True,True,True
 28,amigos,otros,False,False,False,True,False,True
-29,amigos,hotel 3 estrellas,True,False,False,False,False,True
-28,pareja,otros,False,True,True,False,True,True
-30,amigos,hotel 3 estrellas,False,False,True,True,True,True
-25,pareja,otros,True,False,False,True,True,True
-22,pareja,otros,False,False,True,False,True,True
-25,amigos,hotel 3 estrellas,False,False,False,True,True,True
-28,amigos,otros,True,True,True,False,True,True
-28,amigos,otros,False,True,True,False,True,True
-26,amigos,hotel 3 estrellas,False,True,True,False,True,True
-24,amigos,hotel 3 estrellas,False,False,True,False,False,True
-24,amigos,otros,False,False,True,False,True,True
-29,amigos,apartamento / viviendas uso turístico,False,False,False,True,True,True
-22,amigos,otros,False,False,True,False,True,True
-31,amigos,otros,True,False,False,False,True,True
-25,amigos,otros,False,True,False,False,False,True
-23,amigos,hotel 3 estrellas,False,False,False,True,False,True
-30,amigos,otros,True,False,False,False,True,True
-23,amigos,otros,False,False,True,True,True,True
-26,amigos,apartamento / viviendas uso turístico,True,True,False,True,True,True
-27,amigos,otros,False,False,False,False,False,True
-29,pareja,apartamento / viviendas uso turístico,True,False,False,True,True,True
-28,amigos,apartamento / viviendas uso turístico,False,True,False,False,False,True
-29,amigos,otros,False,True,False,False,False,True
-21,amigos,hotel 3 estrellas,True,True,False,False,True,True
-27,amigos,otros,False,True,True,False,True,True
-29,amigos,otros,False,False,False,True,False,True
-25,amigos,hotel 3 estrellas,False,False,False,False,False,True
-28,amigos,otros,False,False,False,False,True,True
+28,amigos,hotel 3 estrellas,True,False,True,False,True,True
+26,amigos,otros,True,True,True,False,True,True
+26,amigos,otros,False,False,True,True,True,True
+27,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+30,amigos,otros,True,True,False,True,True,True
+25,amigos,otros,False,True,False,True,False,True
+23,amigos,otros,False,False,False,False,True,True
+23,amigos,otros,False,False,False,False,True,True
+28,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,False
+27,amigos,otros,False,False,True,False,False,False
+24,pareja,otros,False,False,False,False,False,True
+29,amigos,otros,False,True,False,False,True,True
+25,amigos,otros,False,True,True,True,False,True
+22,amigos,otros,False,False,False,False,False,True
+29,amigos,otros,True,False,False,False,False,True
+24,pareja,otros,False,True,True,True,True,True
+24,amigos,otros,False,False,False,False,False,False
+20,amigos,hotel 3 estrellas,True,False,True,False,False,True
+26,amigos,otros,True,True,False,False,False,True
 26,amigos,hotel 3 estrellas,False,False,True,False,True,True
-28,amigos,otros,False,True,True,False,False,True
+26,pareja,otros,False,False,False,False,True,True
 28,amigos,otros,False,False,True,True,True,True
-23,amigos,otros,False,False,False,True,True,True
-27,amigos,otros,False,True,False,True,False,True
-25,amigos,hotel 3 estrellas,False,False,True,False,False,False
-26,amigos,otros,True,False,True,False,True,True
-24,amigos,hotel 3 estrellas,False,False,False,True,False,True
-28,amigos,hotel 3 estrellas,False,False,True,False,False,True
-27,amigos,apartamento / viviendas uso turístico,True,False,True,True,True,True
-26,amigos,otros,False,False,True,False,True,True
-25,amigos,otros,False,False,False,False,False,True
-26,amigos,otros,True,False,False,False,True,True
-24,amigos,otros,True,False,False,False,True,False
-28,amigos,hotel 3 estrellas,False,False,False,False,True,True
+23,pareja,otros,True,False,False,True,True,True
+26,pareja,otros,False,False,False,True,True,True
+29,amigos,hotel 3 estrellas,False,False,False,False,True,False
+29,amigos,otros,False,True,True,True,True,True
+22,amigos,otros,False,False,False,True,True,True
+27,amigos,otros,True,False,False,True,False,True
+30,amigos,otros,False,True,True,False,True,True
+25,amigos,apartamento / viviendas uso turístico,False,True,False,True,True,True
+28,amigos,otros,False,False,False,True,True,True
+27,pareja,apartamento / viviendas uso turístico,False,False,False,True,False,True
+26,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+25,amigos,apartamento / viviendas uso turístico,False,False,False,True,True,True
+25,pareja,hotel 3 estrellas,True,False,False,False,True,True
+25,pareja,apartamento / viviendas uso turístico,False,False,False,True,True,True
+28,amigos,otros,False,False,True,True,True,True
+20,pareja,otros,True,True,False,False,False,True
+26,amigos,otros,True,True,True,False,False,True
+22,amigos,otros,False,False,False,False,True,True
+22,amigos,otros,False,False,False,False,False,True
+27,amigos,hotel 3 estrellas,False,False,False,False,True,True
+23,amigos,otros,False,False,True,False,True,True
+22,pareja,otros,True,False,True,True,True,True
+24,amigos,otros,True,False,False,False,True,True
+24,amigos,otros,True,False,False,True,False,True
+23,pareja,hotel 3 estrellas,False,True,True,True,True,True
+24,pareja,otros,False,False,False,True,True,True
+25,amigos,otros,True,False,True,False,True,False
+29,amigos,otros,False,True,False,True,False,True
+25,amigos,apartamento / viviendas uso turístico,False,True,False,False,True,True
+26,pareja,otros,False,False,True,True,True,True
+29,amigos,otros,False,False,True,True,True,True
+22,pareja,otros,False,False,False,False,True,True
 26,amigos,otros,False,True,False,False,True,True
-27,pareja,otros,False,False,False,True,True,True
-24,amigos,otros,False,False,True,False,False,True
-27,pareja,apartamento / viviendas uso turístico,False,False,True,False,True,True
-26,amigos,otros,True,True,False,False,True,True
+28,amigos,otros,False,False,True,False,False,True
+27,amigos,hotel 3 estrellas,False,False,False,False,True,False
+24,pareja,hotel 3 estrellas,True,False,False,False,True,True
+32,amigos,otros,False,False,False,True,True,True
+25,amigos,hotel 3 estrellas,False,False,False,False,True,True
+24,amigos,otros,False,False,False,False,False,True
+27,amigos,otros,True,False,True,False,False,True
+24,amigos,hotel 3 estrellas,False,False,True,False,True,True
+25,pareja,otros,False,False,False,False,False,False
+28,amigos,otros,False,False,False,False,True,True
+31,pareja,otros,False,False,True,True,False,True
+28,amigos,otros,False,False,True,True,True,True
+30,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+22,amigos,otros,True,False,False,False,True,True
+24,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
+28,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+28,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,True
+24,pareja,otros,True,True,False,False,True,True
+22,amigos,otros,False,True,True,True,False,True
+24,amigos,otros,False,False,True,False,True,True
+25,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
+27,amigos,hotel 3 estrellas,False,True,False,False,True,True
+25,amigos,otros,False,False,False,True,False,True
+25,amigos,otros,False,False,False,False,True,True
+22,amigos,otros,False,True,False,False,False,True
+31,amigos,apartamento / viviendas uso turístico,False,False,False,True,False,True
+28,amigos,otros,True,False,False,False,True,True
+26,amigos,otros,False,False,False,False,True,True
+27,amigos,otros,False,False,False,True,False,False
+27,amigos,otros,False,False,True,False,True,True
+26,amigos,otros,False,False,False,False,True,True
+28,amigos,otros,False,True,True,False,False,True
+27,amigos,otros,False,False,True,False,False,True
+28,amigos,otros,True,False,False,True,True,True
+29,amigos,otros,True,True,True,False,True,True
+29,amigos,otros,False,False,True,False,False,True
+22,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,False
+27,amigos,hotel 3 estrellas,False,False,False,False,True,True
+27,amigos,otros,True,True,False,False,False,True
+25,amigos,apartamento / viviendas uso turístico,True,False,False,False,True,True
+27,amigos,otros,False,True,False,False,False,True
+29,amigos,otros,False,False,False,False,False,True
+28,amigos,hotel 3 estrellas,False,False,False,False,True,True
+28,amigos,otros,False,False,True,True,True,True
+25,amigos,otros,False,False,True,False,False,True
+25,amigos,otros,False,True,False,True,True,True
+22,amigos,hotel 3 estrellas,False,True,True,False,True,True
+31,amigos,otros,False,False,True,True,False,True
+23,pareja,otros,False,False,True,False,True,True
+27,amigos,otros,False,False,False,True,True,True
+26,amigos,otros,False,False,True,False,True,True
+29,pareja,otros,False,False,False,True,False,True
+25,amigos,otros,False,True,False,True,True,True
+23,amigos,otros,False,False,True,False,True,True
+28,pareja,otros,False,True,False,False,False,False
+27,pareja,otros,True,False,True,False,False,True
+26,amigos,hotel 3 estrellas,False,True,True,True,True,True
+29,amigos,otros,False,True,False,False,False,True
+25,amigos,otros,False,True,False,False,False,True
+22,amigos,hotel 3 estrellas,False,True,False,False,True,True
+23,amigos,otros,False,True,True,False,True,True
+27,amigos,otros,True,False,True,True,True,True
+25,amigos,otros,False,True,False,False,True,True
+27,pareja,apartamento / viviendas uso turístico,True,True,True,False,False,True
+23,amigos,apartamento / viviendas uso turístico,False,False,True,False,True,True
+29,amigos,otros,False,False,False,False,True,True
+23,amigos,hotel 3 estrellas,False,False,False,True,False,True
+29,amigos,otros,False,False,False,False,True,True
+29,amigos,hotel 3 estrellas,False,True,True,False,True,True
+28,amigos,otros,False,False,True,False,False,True
+24,amigos,apartamento / viviendas uso turístico,False,False,True,False,False,True
+27,amigos,otros,False,True,False,False,True,True
+24,amigos,hotel 3 estrellas,True,False,False,False,True,True
+30,amigos,otros,True,False,False,False,False,False
+23,amigos,otros,False,False,True,True,True,True
+25,amigos,otros,False,False,True,False,False,True
+28,amigos,hotel 3 estrellas,True,False,True,True,False,True
+23,pareja,otros,False,False,False,False,False,True
+23,pareja,otros,False,False,False,True,True,True
+21,amigos,otros,False,False,False,False,True,True
+25,amigos,otros,False,True,True,True,True,True
+31,amigos,otros,False,False,False,False,True,True
+22,amigos,apartamento / viviendas uso turístico,False,True,False,False,False,True
+31,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+24,pareja,otros,False,False,True,False,True,True
+27,amigos,otros,False,True,True,True,True,True
+28,amigos,otros,False,False,True,False,False,True
+25,amigos,hotel 3 estrellas,False,False,True,False,False,True
+31,amigos,otros,False,False,True,False,True,True
+27,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
+26,amigos,otros,False,False,False,False,True,True
+31,amigos,otros,False,False,False,True,True,True
+28,amigos,otros,False,False,False,False,False,True
+29,amigos,hotel 3 estrellas,False,True,False,False,True,True
+25,amigos,hotel 3 estrellas,False,False,True,True,True,True
+28,pareja,hotel 3 estrellas,False,False,False,True,True,True
+21,amigos,otros,False,True,False,False,True,True
+26,amigos,hotel 3 estrellas,False,False,True,False,True,True
+27,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
+24,amigos,otros,True,False,True,False,True,False
+29,amigos,apartamento / viviendas uso turístico,False,True,True,False,True,True
+26,amigos,hotel 3 estrellas,True,True,True,False,True,True
+29,amigos,hotel 3 estrellas,False,False,False,True,False,True
+23,amigos,otros,False,True,True,False,True,True
+25,amigos,otros,False,False,True,False,True,True
+31,amigos,otros,True,True,False,False,True,True
+23,amigos,otros,False,True,False,False,True,True
+29,amigos,apartamento / viviendas uso turístico,True,True,False,True,True,True
+25,amigos,hotel 3 estrellas,False,False,False,True,True,True
+26,amigos,otros,False,True,True,False,True,True
+22,amigos,apartamento / viviendas uso turístico,False,False,False,False,False,True
+28,amigos,otros,False,False,True,False,False,True
+29,amigos,otros,False,True,True,False,True,True
+27,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+28,pareja,otros,False,False,False,False,False,True
+28,amigos,hotel 3 estrellas,False,False,False,False,True,True
+31,amigos,otros,False,False,False,False,True,True
+27,pareja,otros,False,True,False,True,False,True
+27,pareja,hotel 3 estrellas,False,False,True,False,True,True
+25,pareja,otros,False,False,True,False,True,True
+27,amigos,otros,False,False,False,True,True,True
+22,amigos,hotel 3 estrellas,False,False,False,False,False,True
+25,amigos,apartamento / viviendas uso turístico,True,False,False,False,True,True
+28,amigos,otros,False,True,False,False,True,True
+30,amigos,otros,False,True,False,False,True,True
+22,amigos,otros,False,False,False,False,True,True
+27,amigos,otros,True,False,False,True,True,True
+28,amigos,otros,False,True,False,True,True,True
+23,amigos,otros,False,True,False,True,False,True
+26,amigos,otros,False,False,True,False,True,True
+30,pareja,otros,False,False,True,True,False,True
+30,amigos,otros,False,False,True,False,True,True
+26,amigos,apartamento / viviendas uso turístico,False,False,False,False,True,True
+27,amigos,hotel 3 estrellas,False,False,False,False,True,False
+27,amigos,otros,False,False,True,False,True,True
+30,amigos,hotel 3 estrellas,False,False,True,False,False,True
